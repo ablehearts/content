@@ -1,0 +1,44 @@
+name: Build content
+
+on:
+  push:
+    branches: [main]
+    paths: ['posts/**', 'images/**', 'scripts/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build
+
+      - name: Commit dist
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || git commit -m "Build content [skip ci]"
+          git push
+
+      # jsDelivr caches @main for up to 12h; purge so the app sees edits now
+      - name: Purge CDN cache
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/dist/index.json" || true
+          for f in $(git diff --name-only HEAD~1 HEAD -- dist/posts); do
+            curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" || true
+          done
+
+      # Rebuild the website so blog pages pick up the change
+      - name: Trigger Vercel deploy
+        if: ${{ env.VERCEL_DEPLOY_HOOK != '' }}
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"

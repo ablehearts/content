@@ -1,0 +1,51 @@
+# Sveltia CMS — free, Git-based editor. Open https://ablehearts.github.io/content/admin/
+# and sign in with a GitHub personal access token (no OAuth server needed).
+backend:
+  name: github
+  repo: ablehearts/content
+  branch: main
+
+media_folder: images
+public_folder: https://cdn.jsdelivr.net/gh/ablehearts/content@main/images
+
+collections:
+  - name: posts
+    label: Blog posts
+    label_singular: Blog post
+    folder: posts
+    extension: md
+    format: frontmatter
+    create: true
+    identifier_field: title
+    slug: '{{fields.slug}}'
+    sortable_fields: [id, title, date]
+    summary: '#{{id}} · {{title}}'
+    fields:
+      - { name: id, label: Post number (higher = newer), widget: number, value_type: int }
+      - { name: slug, label: URL slug, widget: string, hint: 'lowercase-words-with-hyphens; never change after publishing' }
+      - { name: title, label: Title, widget: string }
+      - { name: excerpt, label: Excerpt, widget: text }
+      - name: category
+        label: Category
+        widget: select
+        options:
+          - Our Story
+          - Updates
+          - Impact Stories
+          - Donation Guides
+          - Tax & Finance
+          - Comparison Guides
+          - Global Tech Solutions
+          - Disability Advocacy
+          - Disability Awareness
+          - Philosophy
+          - Society
+          - Technology
+          - Education & Society
+      - { name: author, label: Author, widget: string, default: AbleHearts Team }
+      - { name: date, label: Display date, widget: string, hint: 'e.g. June 2026' }
+      - { name: image, label: Cover image, widget: image }
+      - { name: tags, label: Tags, widget: list }
+      - { name: featured, label: Featured, widget: boolean, default: false }
+      - { name: draft, label: Draft (hidden), widget: boolean, default: false }
+      - { name: body, label: Content, widget: markdown }

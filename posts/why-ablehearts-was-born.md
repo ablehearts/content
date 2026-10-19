@@ -1,0 +1,157 @@
+---
+id: 22
+slug: "why-ablehearts-was-born"
+title: "Why AbleHearts Was Born: Breaking the Cycle of Exploitation"
+excerpt: "The heartbreaking truth behind decades of false promises, exploitation, and broken dreams that led to the creation of AbleHearts - a direct bridge between donors and disabled individuals in rural Kenya."
+category: "Our Story"
+author: "Mary & Lydia"
+date: "April 2025"
+image: "https://able-hearts.org/images/blog/exploitation-cycle.jpg"
+tags: ["Exploitation","Disability Rights","Rural Kenya","Direct Giving","Transparency","Trust"]
+featured: true
+---
+
+## 💔 From Broken Promises to Broken Hearts
+
+We come from a rural village where vulnerability is high. Coming from a family with **two individuals with disabilities** - Mary (mother) and Lydia (daughter) - vulnerability became inevitable. But what we didn't expect was the systematic exploitation that would follow.
+
+### 🏛️ The Colonial Mindset That Never Left
+
+In our community, minds have been conditioned over generations to look to those with wealth or status as "messiahs." Politicians visit, and we expect handouts. When a "mzungu" (white person) arrives, expectations rise even higher - sweets, donations, biscuits. Perhaps this conditioning dates back to colonial tactics designed to soften resistance.
+
+This interdependence creates perfect conditions for **malicious exploitation**.
+
+## 🎭 The Pattern of Deception
+
+### 📝 The Record Keepers
+
+People arrive at our homesteads, going door to door with notebooks. They're looking for disabled people to record names. The promise? "These records will be presented to white donors for help."
+
+Sometimes they arrive with gifts to earn trust:
+- 2kg of corn flour
+- 1kg of beans
+- Promises of wheelchairs, crutches, walking sticks
+
+We gather at playgrounds or markets. Names are taken. Photos are snapped - especially photos. We return home with hope blooming in our hearts. Surely good Samaritans will help us get the mobility tools we desperately need.
+
+### 👻 Then They Vanish
+
+The organizations disappear like smoke. We hear rumors that donations were received - but they never reached us, the intended recipients. We're left with more than empty hands; **we're left with broken hearts**.
+
+> *It's better for someone to simply gift you something than to create anxiety and make you wait for nothing.*
+
+## 🏃‍♀️ Who Can Chase Them?
+
+Think about it. Who among us can hold them accountable?
+
+- **The blind** - Can't see them leave
+- **The handicapped** - Can't run after them
+- **The deaf** - Can't hear the theft happening before their eyes
+- **The mute** - How can you report? To whom? Who will believe you?
+
+The enticement was just to create huge numbers for funding proposals. A few benefit. Many suffer. They vanish. We give up. Life moves on - regardless.
+
+## ⛪ The "Men of God" Who Heal Everyone But Us
+
+Then there are the television healers. On big screens, we watch in amazement:
+- The handicapped walk
+- The blind see
+- The deaf hear
+- The dead rise
+
+We receive invitations. "Come to our revival!" So we attend - crawling, on crutches, with genuine disabilities and genuine hope.
+
+### 😔 The Bitter Reality
+
+We return home unchanged. Still crawling. Still using our worn crutches. And what do these "men of God" say?
+
+**"You have little faith. You cannot be healed."**
+
+But why were we invited in the first place? Were we just props for their cameras? Advertisement for their next big donor?
+
+And where is our compensation for appearing on their broadcasts? While we receive one-time meals pushed at us like they're life-changing, these ministers upgrade from expensive cars to **private chartered jets**.
+
+## ✨ One Light in the Darkness
+
+We must acknowledge the genuine help we received from **Catholic Diocese of Kisii**, specifically Nyamagwa Parish.
+
+When I was struggling for school, crawling like a baby despite being a grown woman - scratching my knees and hands just to get to class - a priest came. He saw my struggle.
+
+He helped me get:
+- Crutches
+- Black orthotic shoes
+
+For the first time, I could stand somewhat upright. I could "walk" like others. Those tools are now worn and torn, held together by multiple repairs, but they changed my life.
+
+**That was real help. Direct help. No photos for publicity. Just compassion in action.**
+
+## 📸 The Wheelchair Photo Shoot
+
+Others promise wheelchairs. They call us as a group. We sit on the chairs. They take pictures. We leave - **without the wheelchairs**.
+
+We didn't have them before. We don't have them after. What can we do?
+
+![Wheelchair Photo Shoot - Who can chase them?](/images/blog/who-can-chase-them.jpg)
+
+## 💝 Why AbleHearts Exists
+
+We created **AbleHearts** to break this cycle.
+
+### ✅ Our Promise: Authenticity
+
+1. **You get our real story** - No exaggeration, no actors
+2. **Direct communication** - WhatsApp, video calls, proof
+3. **No third parties** - Your donations come directly to Mary & Lydia
+4. **Full transparency** - We show you exactly how funds are used
+5. **Real accountability** - We're not unreachable once we receive help
+
+![Mary and Lydia - Traditional vs AbleHearts](/images/blog/traditional-vs-ablehearts.png)
+
+### 🙏 What We Need Your Help For
+
+- **Medical care** - Access to proper healthcare
+- **Clothing** - Basic dignity
+- **Food** - Daily meals
+- **School fees** - Education for Lydia
+- **Mobility aids** - Wheelchairs that we actually keep
+- **Better housing** - Accessible shelter (our land is being grabbed!)
+
+## 🤝 Trust Must Be Earned
+
+We understand skepticism. We've learned it ourselves through bitter experience. That's why we offer:
+
+- ✅ Video verification before you donate
+- ✅ Direct communication channels
+- ✅ Photo/video updates of exactly how funds are used
+- ✅ No branded photo shoots without your knowledge
+- ✅ No mysterious "overhead costs" or "administrative fees"
+
+## 💰 Your Money Reaches the Right Hands
+
+When you donate through AbleHearts:
+
+1. **No blackhole** - Your money doesn't disappear into organizational budgets
+2. **Direct impact** - Funds go directly to Mary and Lydia
+3. **Authentic needs** - We're not actors or props
+4. **Real accountability** - We show you the results
+
+## 🎯 The Choice Is Yours
+
+We're not asking you to trust blindly - we've been hurt by that too many times. We're asking you to:
+
+- **See us** - Real people with real disabilities and real needs
+- **Connect with us** - Video call, WhatsApp, verify we're authentic
+- **Help directly** - No intermediaries to take their cut or vanish
+- **Build relationship** - This isn't a transaction, it's a partnership
+
+## ⚠️ Poverty + Disability = Vulnerability
+
+This combination makes us targets. But with your help, we can break the cycle. Not with false promises or photo opportunities - but with **real, direct, accountable support**.
+
+**AbleHearts was born from broken promises. But it exists to build bridges of trust.**
+
+---
+
+*Read more about Mary and Lydia's current urgent needs in our [Medical Equipment Appeal](/blog/urgent-medical-needs-mary-lydia).*
+
+*Learn about [How to Donate Safely](/blog/how-to-donate-safely-to-kenya-from-usa-canada) and verify your support reaches us directly.*
