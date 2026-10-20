@@ -12,8 +12,12 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # the purge step diffs against the previous commit
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -39,6 +43,4 @@ jobs:
       # Rebuild the website so blog pages pick up the change
       - name: Trigger Vercel deploy
         if: ${{ env.VERCEL_DEPLOY_HOOK != '' }}
-        env:
-          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
