@@ -65,12 +65,15 @@ Rules:
 
 Run `npm install && npm run build` to check a post locally. CI runs the same build on every push, commits `dist/`, purges the CDN cache, and pings Vercel.
 
-## Regenerating from the website
+## Copying a post written in the website code
 
-The initial posts were exported from the website's TypeScript files:
+If a post was added as `lib/blog/postN.ts` in the website, copy it here:
 
 ```bash
 cd ../ablehearts.github.io && yarn content:export ../ablehearts-content
+cd ../ablehearts-content && git add posts && git commit -m "Add post: <title>" && git pull --rebase && git push
 ```
+
+Only posts missing from `posts/` are written, so edits made in the editor are kept. `--force` overwrites every post from the website code, discarding those edits.
 
 After the website switches to reading from this repo, edit posts here only.
