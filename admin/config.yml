@@ -6,7 +6,7 @@ backend:
   branch: main
 
 media_folder: images
-public_folder: https://cdn.jsdelivr.net/gh/ablehearts/content@main/images
+public_folder: /images # build.mjs turns these into CDN URLs
 
 collections:
   - name: posts
