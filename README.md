@@ -74,6 +74,15 @@ cd ../ablehearts.github.io && yarn content:export ../ablehearts-content
 cd ../ablehearts-content && git add posts && git commit -m "Add post: <title>" && git pull --rebase && git push
 ```
 
-Only posts missing from `posts/` are written, so edits made in the editor are kept. `--force` overwrites every post from the website code, discarding those edits.
+Like `cloudinary:sync`, changes are detected by MD5 hash. `.sync/website-hashes.json` records the hash of what was last copied for each post, so the export can tell which side changed:
+
+| Situation | Result |
+| --- | --- |
+| New post in the code | added |
+| Changed in the code, untouched in the editor | updated |
+| Unchanged in the code | skipped, so editor changes are kept |
+| Changed in both places | conflict: skipped and listed, merge by hand |
+
+`--force` takes the code version for every post, discarding editor changes. Nothing is ever deleted, because posts created in the editor have no code counterpart.
 
 After the website switches to reading from this repo, edit posts here only.
