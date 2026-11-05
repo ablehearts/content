@@ -121,7 +121,7 @@ featured: true
   
   ### 🔐 Step 7: Check Payment Security
   - Website must have SSL certificate (https://)
-  - Should offer recognized payment processors (PayPal, Stripe)
+  - Should offer recognized payment processors (e.g. Paystack, Stripe)
   - Never provide bank login credentials
   - Avoid wire transfers to individuals
   
@@ -131,30 +131,20 @@ featured: true
   
   ### Most Secure Options (Recommended):
 
-  #### 💳 1. PayPal
-  **Best for:** Most secure option with buyer protection
-  - Fraud protection
-  - Dispute resolution
-  - Automatic tax receipts
-  - No foreign transaction fees
-  - 2.9% + $0.30 fee (some charities absorb this)
-
-  #### 💳 2. Credit Card via Stripe/Square
+  #### 💳 1. Credit Card (e.g. via Paystack)
   **Best for:** Chargeback protection
   - Dispute up to 120 days
   - Fraud monitoring
-  - Instant receipt
   - Earn credit card rewards
-  - 2.9% + $0.30 fee
 
-  #### 🏦 3. Bank Transfer (Wire)
+  #### 🏦 2. Bank Transfer (Wire)
   **Best for:** Large donations ($500+)
   - Lower fees for big amounts
   - Direct to organization
   - No dispute process
   - Requires more trust
 
-  #### ₿ 4. Cryptocurrency
+  #### ₿ 3. Cryptocurrency
   **Best for:** Tax-savvy donors
   - No capital gains tax on donated crypto (USA)
   - Lower transaction fees
@@ -212,7 +202,7 @@ featured: true
   - Zero administrative overhead (100% to beneficiaries)
   - Real-time updates with photos
   - Direct contact with beneficiaries (Mary & Lydia)
-  - Secure payment processors (PayPal, Stripe, crypto)
+  - Secure payment processors (Paystack card checkout, crypto)
   - Tax receipts for all donations
   
   ### Track Your Impact:
@@ -233,7 +223,7 @@ featured: true
   - [ ] Contact information is verifiable
   - [ ] Financial transparency is available
   - [ ] Reviews are mostly positive
-  - [ ] Payment method is secure (PayPal, credit card)
+  - [ ] Payment method is secure (credit card, recognized processor)
   - [ ] You'll receive a tax receipt
   - [ ] Organization responds to your questions
   - [ ] Impact reports are specific and recent
@@ -252,7 +242,7 @@ featured: true
   
   ### Q: How long does it take for my donation to reach Kenya?
   **A:** 
-  - PayPal/Credit Card: 1-3 business days
+  - Credit card: 1-3 business days
   - Bank wire: 3-5 business days
   - Cryptocurrency: Within 24 hours
   
@@ -261,8 +251,8 @@ featured: true
   
   ### Q: What if I suspect fraud after donating?
   **A:** 
-  1. Contact your payment processor immediately (PayPal, credit card company)
-  2. File dispute within timeframe (PayPal: 180 days, Credit card: 60-120 days)
+  1. Contact your payment processor immediately (credit card company or bank)
+  2. File dispute within timeframe (credit card: usually 60-120 days)
   3. Report to FTC (USA) or Canadian Anti-Fraud Centre
   4. Leave review warning other donors
   

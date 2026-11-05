@@ -287,7 +287,7 @@ Have you been blessed throughout 2025? 🙌
 
 **Flexible Options:**
 - We work with your schedule ⏰
-- Multiple payment methods accepted (PayPal, crypto, bank transfer, M-PESA) 💳
+- Multiple payment methods accepted (card via Paystack, crypto, bank transfer, M-PESA) 💳
 - Physical gift delivery coordination available 🚚🎁
 - Anonymous donations welcomed 🎭
 

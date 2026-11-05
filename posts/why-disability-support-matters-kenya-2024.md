@@ -77,12 +77,12 @@ featured: false
   A: We provide photo updates and expense transparency so you can see impact.
   
   **Q: Can I give monthly?**
-  A: Yes—monthly gifts provide reliable support for essentials and care.
+  A: Yes. There's no automatic billing, but you can give again each month on the [donate page](/donate). Regular gifts provide reliable support for essentials and care.
   
   **Q: Are donations tax-deductible?**
   A: Tax receipts are provided where applicable (see donation page details).
   
   ## 🚀 Take Action
   
-  - 🔁 Start a monthly gift for sustained impact
+  - 🔁 Give again each month on the [donate page](/donate) for sustained impact
   - 📣 Share this story to raise awareness

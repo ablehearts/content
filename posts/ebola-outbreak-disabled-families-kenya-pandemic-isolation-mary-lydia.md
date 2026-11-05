@@ -171,8 +171,7 @@ Every donation goes 100% to Mary and Lydia — no overhead, no administrative fe
 | $250+ | Mobility aid contribution — a step toward independence |
 
 **Payment Options:**
-- 💙 PayPal: [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)
-- 💳 Credit/Debit Card: Stripe (secure, instant)
+- 💳 Card or Apple Pay: Paystack (secure, instant)
 - 📱 M-PESA: Direct to Kenya
 - ₿ Crypto: Bitcoin, USDT, BNB accepted
 

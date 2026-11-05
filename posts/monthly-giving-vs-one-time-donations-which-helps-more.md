@@ -67,16 +67,16 @@ featured: false
   ## ❓ Frequently Asked Questions
   
   **Q: Does monthly giving cost more in fees?**
-  A: Usually not. In practice, smaller automated gifts often reduce churn and admin costs.
+  A: Usually not. Each gift goes through the same secure checkout.
   
-  **Q: Can I change or cancel my monthly gift anytime?**
-  A: Yes—most platforms allow you to pause, increase, or cancel instantly.
+  **Q: Can I change or stop my monthly gift anytime?**
+  A: Yes. There's no automatic billing: you give again each month on the [donate page](/donate), so you can change the amount, pause or stop whenever you like.
   
   **Q: Which has more impact—$300 once or $25/month?**
   A: Both help. $25/month ensures stability; $300 once can fund a specific milestone. Together they’re strongest.
   
   ## 🚀 Take the Next Step
   
-  - 🔁 Start a monthly gift to provide reliable support
+  - 🔁 Give again each month on the [donate page](/donate) to provide reliable support
   - 🎁 Make a one-time donation to meet today’s urgent need
   - 📣 Share this guide to inspire another donor

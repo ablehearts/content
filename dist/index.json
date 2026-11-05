@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-23T15:57:00.842Z",
+  "generatedAt": "2026-11-05T06:57:51.576Z",
   "siteUrl": "https://able-hearts.org",
   "posts": [
     {
@@ -473,7 +473,7 @@
         "Quality of Life"
       ],
       "featured": false,
-      "readMinutes": 9
+      "readMinutes": 10
     },
     {
       "id": 26,
@@ -877,7 +877,7 @@
         "arab donors"
       ],
       "featured": false,
-      "readMinutes": 8
+      "readMinutes": 7
     },
     {
       "id": 9,
@@ -897,7 +897,7 @@
         "tax-deductible"
       ],
       "featured": false,
-      "readMinutes": 12
+      "readMinutes": 11
     },
     {
       "id": 8,

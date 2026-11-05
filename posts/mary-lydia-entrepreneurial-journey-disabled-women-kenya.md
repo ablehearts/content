@@ -491,8 +491,8 @@ This is their untold entrepreneurial story.
 
 ### Multiple Payment Options:
 
-**PayPal:**
-- 📧 hesbonosoro1@gmail.com
+**Card or Apple Pay (Paystack):**
+- 💳 [Donate →](/donate)
 
 **M-PESA (Kenya):**
 - 📱 Direct: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">+254 792 496 898</code>

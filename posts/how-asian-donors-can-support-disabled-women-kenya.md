@@ -79,8 +79,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 
 **Why Indian donors choose AbleHearts:**
 - Similar cultural values (family, community, karma/dharma)
-- UPI payment accepted (coming soon!)
-- No foreign transaction fees with PayPal
+- Card or Apple Pay via secure Paystack checkout
 - Tax deduction under Section 80G (if registered in India)
 
 ---
@@ -99,8 +98,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Singaporean donors choose AbleHearts:**
-- PayNow integration (coming soon!)
-- Credit card accepted (Visa, Mastercard, AMEX)
+- Card or Apple Pay via secure Paystack checkout (Visa, Mastercard)
 - Transparent financial reporting
 - Community Chest approved (pending)
 
@@ -120,9 +118,8 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Japanese donors choose AbleHearts:**
-- PayPay integration (coming soon!)
 - Cultural alignment: 義理 (giri - sense of duty to help)
-- Monthly giving options
+- Give again each month on the donate page
 - Detailed impact reports (日本語 translation available)
 
 ---
@@ -141,7 +138,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Chinese donors choose AbleHearts:**
-- Alipay/WeChat Pay (coming soon!)
+- Card or Apple Pay via secure Paystack checkout
 - Cultural value: 慈善 (císhàn - charity/compassion)
 - Transparent blockchain tracking
 - 中文 documentation available
@@ -162,7 +159,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Filipino donors choose AbleHearts:**
-- GCash/PayMaya (coming soon!)
+- Card or Apple Pay via secure Paystack checkout
 - Cultural value: Bayanihan (community spirit)
 - Remittance-friendly options
 - Tagalog updates available
@@ -173,34 +170,16 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 
 ### **Currently Available:**
 
-#### 💳 **1. PayPal (Best for Most Asian Countries)**
-**Accepted from:**
-- ✅ India, Singapore, Japan, China, Philippines, Malaysia, Thailand, Indonesia, Hong Kong, South Korea
+#### 💳 **1. Card or Apple Pay (Visa, Mastercard)**
+**Secure Paystack checkout**
 
 **How to donate:**
 1. Go to: [/donate](/donate)
-2. Click "Donate with PayPal"
-3. Choose amount in your currency
-4. PayPal auto-converts to USD/KES
-5. Receive instant receipt
-
-**Fees:**
-- India: No foreign transaction fee (PayPal India)
-- Singapore: Small conversion fee (~3%)
-- Japan: 4% foreign transaction fee
-- China: Limited availability (use credit card)
-
----
-
-#### 💳 **2. Credit/Debit Card (Visa, Mastercard, AMEX)**
-**Accepted worldwide via Stripe**
-
-**How to donate:**
-1. Select "Credit/Debit Card" on donate page
-2. Enter card details (secure Stripe processing)
-3. Amount charged in USD
-4. Your bank converts currency
-5. Receive instant receipt
+2. Choose USD (card, international)
+3. Pick or enter an amount
+4. Pay by card or Apple Pay on Paystack's secure checkout
+5. Your bank converts currency
+6. Add your email for a receipt (optional)
 
 **Currency Conversion:**
 - India: Check with your bank for forex rates
@@ -210,7 +189,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 
 ---
 
-#### ₿ **3. Cryptocurrency (Bitcoin, USDT)**
+#### ₿ **2. Cryptocurrency (Bitcoin, USDT)**
 **Perfect for:**
 - Large donations (₹50,000+ INR, $500+ SGD, ¥50,000+ JPY)
 - Tech-savvy donors
@@ -225,43 +204,13 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 
 ---
 
-### **Coming Soon (Q1 2025):**
-
-#### **🇮🇳 India:**
-- ✅ UPI (Google Pay, PhonePe, Paytm)
-- ✅ NEFT/RTGS bank transfer
-- ✅ Razorpay integration
-
-#### **🇸🇬 Singapore:**
-- ✅ PayNow
-- ✅ FAST bank transfer
-- ✅ GrabPay
-
-#### **🇯🇵 Japan:**
-- ✅ PayPay
-- ✅ Line Pay
-- ✅ Konbini payment (7-Eleven, FamilyMart)
-
-#### **🇨🇳 China:**
-- ✅ Alipay (支付宝)
-- ✅ WeChat Pay (微信支付)
-- ✅ UnionPay
-
-#### **🇵🇭 Philippines:**
-- ✅ GCash
-- ✅ PayMaya
-- ✅ Remittance services (Western Union, MoneyGram)
-
----
-
 ## 🌏 Country-Specific Donation Guide
 
 ### **🇮🇳 For Indian Donors:**
 
 **Recommended Payment Method:**
-1. PayPal (no foreign transaction fee)
-2. Credit card (check forex markup with bank)
-3. UPI (coming Q1 2025)
+1. Card or Apple Pay via Paystack (check forex markup with bank)
+2. Cryptocurrency (Bitcoin, USDT)
 
 **Tax Benefits:**
 - If AbleHearts gets 12A/80G registration: 50% tax deduction
@@ -283,9 +232,8 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇸🇬 For Singaporean Donors:**
 
 **Recommended Payment Method:**
-1. Credit card via Stripe (Visa/Mastercard)
-2. PayPal
-3. PayNow (coming soon)
+1. Card or Apple Pay via Paystack (Visa/Mastercard)
+2. Cryptocurrency (Bitcoin, USDT)
 
 **Tax Benefits:**
 - Tax deduction available if AbleHearts gets IPC status
@@ -306,9 +254,8 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇯🇵 For Japanese Donors:**
 
 **Recommended Payment Method:**
-1. Credit card (JCB accepted via Stripe)
-2. PayPal Japan
-3. PayPay (coming soon)
+1. Card or Apple Pay via Paystack (Visa/Mastercard)
+2. Cryptocurrency (Bitcoin, USDT)
 
 **Tax Benefits:**
 - Potentially deductible if donation exceeds ¥2,000
@@ -329,9 +276,8 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇨🇳 For Chinese Donors:**
 
 **Recommended Payment Method:**
-1. Credit card (UnionPay accepted)
+1. Card or Apple Pay via Paystack (Visa/Mastercard)
 2. Cryptocurrency (popular in China)
-3. Alipay/WeChat Pay (coming Q1 2025)
 
 **Tax Benefits:**
 - Chinese tax deduction available through approved foundations
@@ -352,9 +298,8 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇵🇭 For Filipino Donors:**
 
 **Recommended Payment Method:**
-1. PayPal Philippines
-2. Credit/debit card
-3. GCash/PayMaya (coming soon)
+1. Card or Apple Pay via Paystack (Visa/Mastercard)
+2. Cryptocurrency (Bitcoin, USDT)
 
 **Tax Benefits:**
 - Philippine donors: Not currently tax-deductible
@@ -464,7 +409,7 @@ Mary (disabled mother) and Lydia (disabled daughter) live in rural Kenya with se
 Before donating, verify:
 
 - [ ] Website is secure (https://)
-- [ ] PayPal/Stripe badge visible
+- [ ] Paystack secure checkout badge visible
 - [ ] Real beneficiary names (Mary & Lydia)
 - [ ] Monthly updates promised
 - [ ] Currency conversion clearly shown
@@ -498,10 +443,8 @@ Before donating, verify:
    - No hidden fees
 
 4. **Easy Payment:**
-   - PayPal (most Asian countries)
-   - Credit card (Visa, Mastercard, UnionPay)
+   - Card or Apple Pay via Paystack (Visa, Mastercard)
    - Crypto (Bitcoin, USDT)
-   - Local methods coming soon
 
 ---
 

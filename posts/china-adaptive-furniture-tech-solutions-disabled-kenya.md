@@ -280,7 +280,7 @@ Instead of a painful rope, Lydia needs a **Chinese-made electric bed assist**:
 
 ### For Individual Donors:
 **Can't donate products? Donate funds to purchase them:**
-- 💳 **PayPal:** hesbonosoro1@gmail.com
+- 💳 **Card or Apple Pay (Paystack):** [Donate →](/donate)
 - 💰 **M-PESA (Kenya) 🇰🇪:** <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">+254 792 496 898</code>
 - ₿ **Crypto:** USDT (TRC20): <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">TGz&#x34;EeLYVcnER&#x37;B&#x37;Yhhub&#x31;Q&#x35;JiWcAnrQdL</code>
 - 🏦 **Bank Transfer:** Equity Bank Kenya: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">&#x30;&#x35;&#x31;&#x30;&#x31;&#x37;&#x37;&#x34;&#x38;&#x37;&#x38;&#x39;&#x32;</code>

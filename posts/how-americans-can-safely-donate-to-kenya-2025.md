@@ -67,7 +67,7 @@ Your dollar goes **5-10x further** in Kenya than in the USA:
    - Wire transfers to individual accounts
    - Cash or gift cards only
    - Cryptocurrency ONLY (legitimate charities offer multiple options)
-   - Payment to personal PayPal/Venmo accounts
+   - Payment to personal payment-app accounts (e.g. Venmo)
 
 3. **🏢 No verifiable organization**
    - No EIN (Employer Identification Number)
@@ -129,32 +129,18 @@ Ask for or search for:
 
 ### Ranked by Security & Tax Benefits:
 
-#### 💳 🥇 1. PayPal (Most Secure)
-
-**Pros:**
-- ✅ Buyer protection for 180 days
-- ✅ Dispute resolution
-- ✅ Automatic tax receipt
-- ✅ No foreign transaction fees
-- ✅ Instant donation confirmation
-
-**Cons:**
-- 💸 2.9% + $0.30 fee (charity pays, not you)
-
-**Best for:** First-time donors, small to medium donations ($10-$500)
-
-#### 💳 🥈 2. Credit Card via Stripe/Square
+#### 💳 🥇 1. Card or Apple Pay via Paystack
 
 **Pros:**
 - ✅ Chargeback protection (60-120 days)
 - ✅ Fraud monitoring by card issuer
 - ✅ Earn credit card rewards points
-- ✅ Instant receipt
+- ✅ Pay in USD; card details are entered on Paystack, never on our site
 - ✅ Easy to dispute
 
-**Best for:** Earning rewards, recurring monthly donations
+**Best for:** Most donors, quick gifts in USD, earning rewards
 
-#### ₿ 🥉 3. Cryptocurrency (Bitcoin, USDT)
+#### ₿ 🥈 2. Cryptocurrency (Bitcoin, USDT)
 
 **Pros:**
 - ✅ Donate appreciated crypto without capital gains tax
@@ -271,8 +257,7 @@ Mary and Lydia are disabled women in rural Kenya who have lived with mobility ch
 - IRS-compliant documentation
 
 **4. Secure Payment Options**
-- PayPal (most popular with Americans)
-- Stripe (credit/debit cards)
+- Card or Apple Pay via Paystack (Visa, Mastercard)
 - Cryptocurrency (Bitcoin, USDT TRC20)
 - Bank transfer (for large donations)
 
@@ -338,7 +323,7 @@ Now you have everything you need to donate to Kenya with confidence!
 - ✅ Instant tax receipt
 - ✅ Monthly photo/video updates
 - ✅ Direct communication with Mary & Lydia
-- ✅ Secure payment processors (PayPal, Stripe, crypto)
+- ✅ Secure payment processors (Paystack card checkout, crypto)
 
 **Your $100 provides:**
 - 🍽️ 1 month of nutritious meals

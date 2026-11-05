@@ -160,12 +160,12 @@ Kuwait has a rich tradition of charitable giving:
 
 ## 🇰🇼 How Kuwaitis Can Donate
 
-### Option 1: PayPal (Accepts Credit Cards)
-**Quick, secure, international standard**
-- Supports **KWD credit/debit cards**
-- Automatic currency conversion
-- Instant donation receipt
-- [Donate via PayPal →](/donate)
+### Option 1: Card or Apple Pay (Paystack)
+**Quick, secure checkout**
+- Pay in USD with a Visa or Mastercard card, or Apple Pay
+- Your bank converts from KWD
+- Card details are entered on Paystack, never on our site
+- [Donate by card →](/donate)
 
 ### Option 2: Bank Transfer
 **For larger donations (30+ KWD)**
@@ -281,7 +281,7 @@ Mary and Lydia **cannot stay on their current land**—they will be poisoned lik
 - **100+ KWD** - transformative long-term support
 
 ### Step 2: Select Payment Method
-- **PayPal/Credit Card** - instant, secure, KWD accepted
+- **Card or Apple Pay (Paystack)** - instant, secure, KWD cards accepted
 - **Bank Transfer** - for larger donations
 - **Crypto** - for privacy-conscious donors
 - **M-PESA** - direct to Kenya, zero fees

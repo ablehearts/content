@@ -227,7 +227,7 @@ This is where organizations like **AbleHearts** come in. We act as a form of "co
 When you donate to AbleHearts, you're essentially **becoming Mary & Lydia's disability insurance provider**. Your contributions:
 
 **Act as monthly premiums:** 💳
-- Just like insurance payments, your recurring donations provide ongoing support
+- Just like insurance payments, giving again each month provides ongoing support
 
 **Cover disability-related expenses:** 🦽
 - Medical equipment, healthcare, home modifications
@@ -273,7 +273,7 @@ Additionally, most insurers exclude pre-existing conditions, so their disabiliti
 
 ### Q: Can I set up a recurring donation to act as their "insurance premium"? 🔄
 
-**A:** Yes! ✅ Contact us via [WhatsApp: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">+254 107 145 882</code>](https://wa.me/254107145882) or email [donations@able-hearts.org](mailto:donations@able-hearts.org) to set up:
+**A:** Automatic recurring billing isn't available, but you can give the same amount again each month on the [donate page](/donate). ✅ You can also contact us via [WhatsApp: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">+254 107 145 882</code>](https://wa.me/254107145882) or email [donations@able-hearts.org](mailto:donations@able-hearts.org) to plan:
 - 📅 Monthly donations (like insurance premiums)
 - 🎯 Direct sponsorship for specific needs (wheelchair, medical care, etc.)
 - 🤝 Long-term support commitments
@@ -318,7 +318,7 @@ Your donations are doing the work that insurance companies won't. 🙏
 ### Payment Options
 
 **Quick Donations:** 💸
-- **PayPal:** [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)
+- **Card or Apple Pay (Paystack):** [Donate →](/donate)
 - **M-PESA (Kenya):** 🇰🇪 Paybill: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">&#x32;&#x34;&#x37;&#x32;&#x34;&#x37;</code>, Account: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">&#x30;&#x35;&#x31;&#x30;&#x31;&#x37;&#x37;&#x34;&#x38;&#x37;&#x38;&#x39;&#x32;</code>
 - **Cryptocurrency:** ₿ `Bitcoin`, Ξ `Ethereum`, 💵 `USDT` accepted
 

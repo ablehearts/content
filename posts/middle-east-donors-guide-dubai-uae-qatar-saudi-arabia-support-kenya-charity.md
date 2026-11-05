@@ -47,15 +47,12 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 - **Qatar 🇶🇦:** QNB, Doha Bank, Commercial Bank
 - **Bahrain, Kuwait, Oman:** All major cards
 
-**Currencies Accepted:**
-- AED (UAE Dirham) ✅
-- SAR (Saudi Riyal) ✅
-- QAR (Qatari Riyal) ✅
-- USD (always accepted) ✅
+**Currency:**
+- Card gifts are made in USD ✅
+- Your bank converts from AED, SAR, QAR, KWD, BHD or OMR
 
 **Payment via:**
-- PayPal (accepts Middle East cards)
-- Stripe (coming soon - direct AED/SAR/QAR)
+- Card or Apple Pay via Paystack (Visa, Mastercard)
 - Bank transfer (Equity Bank Kenya, SWIFT available)
 
 ### 🏦 2. **Bank Transfer (Largest Donations)**
@@ -87,13 +84,6 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 - **Rain (Bahrain)** - First licensed exchange
 - **BitOasis (UAE)** - Sharia-compliant
 - **CoinMENA (Bahrain)**
-
-### 4. **Mobile Money (Coming Soon)**
-
-**Planned integrations:**
-- **PayTabs** - Saudi Arabia payment gateway
-- **Telr** - UAE payment processor
-- **Network International** - Gulf-wide payments
 
 ---
 

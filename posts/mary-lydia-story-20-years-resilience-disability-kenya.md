@@ -375,7 +375,7 @@ Mary and Lydia have waited over 20 years for consistent support. Your donation t
 
 ### ✅ How to Help
 1. ✅ **Make a one-time donation** for immediate impact
-2. 🔁 **Set up monthly giving** for sustained support
+2. 🔁 **Give again each month** on the [donate page](/donate) for sustained support
 3. 📣 **Share their story** to expand awareness
 4. 📱 **Follow their journey** on social media
 

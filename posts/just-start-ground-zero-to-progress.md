@@ -89,7 +89,7 @@ Now we have:
 - **Transparency portal**
 - **Philanthropist recognition system**
 - **Search functionality**
-- **Multiple payment methods** (PayPal, M-PESA, crypto, bank transfer)
+- **Multiple payment methods** (card via Paystack, M-PESA, crypto, bank transfer)
 
 **All from an empty folder.** 🚀
 

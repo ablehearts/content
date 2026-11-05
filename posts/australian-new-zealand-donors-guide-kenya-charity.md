@@ -70,8 +70,7 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 </div>
 
 **Why Aussie donors choose AbleHearts:**
-- PayPal Australia accepted (no foreign transaction fee)
-- POLi payment (coming soon!)
+- Card or Apple Pay via secure Paystack checkout
 - Tax-deductible (DGR status pending)
 - ACNC registered charity (application in progress)
 
@@ -92,8 +91,8 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 </div>
 
 **Why Kiwi donors choose AbleHearts:**
-- PayPal New Zealand accepted
-- POLi/Bank transfer available
+- Card or Apple Pay via secure Paystack checkout
+- Bank transfer available
 - Tax credit available (Charities Services registered - pending)
 - 100% transparency (every dollar tracked)
 
@@ -103,36 +102,17 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 
 ### **Currently Available:**
 
-#### 💳 **1. PayPal (Most Popular - No Foreign Transaction Fees!)**
+#### 💳 **1. Card or Apple Pay (Visa, Mastercard)**
 
-**Best for:** Australian & NZ donors (PayPal AU/NZ accounts)
+**Secure Paystack checkout**
 
 **How to donate:**
 1. Visit: able-hearts.org/donate
-2. Click "Donate with PayPal"
-3. Select amount in AUD or NZD
-4. PayPal converts to USD/KES automatically
-5. Instant tax receipt via email
-
-**Fees:**
-- 🇦🇺 Australia: **0% foreign transaction fee** with PayPal AU
-- 🇳🇿 New Zealand: **0% foreign transaction fee** with PayPal NZ
-- Standard PayPal fee: 2.6% + $0.30 (charity pays, not you)
-
-**Tip:** Link your Australian/NZ bank account to PayPal for direct debit (no card fees).
-
----
-
-#### 💳 **2. Credit/Debit Card (Visa, Mastercard, AMEX)**
-
-**Secure Stripe processing**
-
-**How to donate:**
-1. Select "Credit/Debit Card" on donate page
-2. Enter Australian/NZ card details
-3. Amount charged in AUD/NZD
-4. Your bank converts currency (check forex rate)
-5. Instant receipt
+2. Choose USD (card, international)
+3. Pick or enter an amount
+4. Pay with your Australian/NZ card or Apple Pay on Paystack's secure checkout
+5. Your bank converts AUD/NZD to USD (check forex rate)
+6. Add your email for a receipt (optional)
 
 **Fees:**
 - Commonwealth Bank AU: 3% international transaction fee
@@ -146,7 +126,7 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 
 ---
 
-#### 🏦 **3. Bank Transfer (Direct Deposit)**
+#### 🏦 **2. Bank Transfer (Direct Deposit)**
 
 **Best for:** Large donations ($500+ AUD/NZD)
 
@@ -164,7 +144,7 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 
 ---
 
-#### ₿ **4. Cryptocurrency (Bitcoin, USDT)**
+#### ₿ **3. Cryptocurrency (Bitcoin, USDT)**
 
 **Best for:** Tech-savvy donors, large amounts ($1,000+ AUD/NZD)
 
@@ -179,21 +159,6 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 - New Zealand: No capital gains tax (crypto donation = cost basis deduction)
 
 **Fees:** 1-2% (much lower than bank wire or credit card)
-
----
-
-### **Coming Soon (Q1 2025):**
-
-#### **🇦🇺 Australia:**
-- ✅ POLi Payment (instant bank transfer)
-- ✅ BPAY
-- ✅ Afterpay Donations (donate now, pay later interest-free!)
-- ✅ Wise integration (low-fee international transfers)
-
-#### **🇳🇿 New Zealand:**
-- ✅ POLi Payment NZ
-- ✅ Faster bank transfer integration
-- ✅ Wise integration
 
 ---
 
@@ -369,11 +334,10 @@ When you donate, you can expect:
 **A:** AbleHearts is applying for DGR (Deductible Gift Recipient) status with ACNC. Once approved (expected Q1 2025), donations will be 100% tax-deductible. Keep your receipts now to claim once DGR is granted.
 
 ### **Q: Can I donate in AUD/NZD or do I need to convert?**
-**A:** You can donate in AUD or NZD! PayPal and Stripe automatically convert to USD/KES. You'll see the exact amount charged in your currency before confirming.
+**A:** Use your AUD or NZD card as normal. Card checkout runs in USD, and your bank converts the amount from AUD or NZD.
 
 ### **Q: Are there foreign transaction fees?**
 **A:**
-- PayPal AU/NZ: **No** foreign transaction fee
 - Credit card: Depends on your bank (0-3%)
 - 28° Mastercard (AU): **No** foreign transaction fee
 - Wise: Low fees (0.5-1%)
@@ -386,23 +350,16 @@ When you donate, you can expect:
 4. Monthly WhatsApp updates
 
 ### **Q: Can I set up recurring monthly donations?**
-**A:** Yes! PayPal offers monthly recurring donations. Set it once, help consistently:
+**A:** Automatic monthly billing isn't available, but you can give the same amount each month on the [donate page](/donate). Regular gifts help consistently:
 - $25 AUD/month = ongoing medical support
 - $50 AUD/month = food + medical care
 - $100 AUD/month = comprehensive support
 
 ### **Q: What if the charity shuts down or is a scam?**
 **A:**
-- PayPal: 180-day buyer protection (dispute available)
 - Credit card: Chargeback protection (60-120 days)
 - Prevention: We provide full transparency before you donate
 - Verification: Check our social media, YouTube, donor testimonials
-
-### **Q: Can I donate via Afterpay (pay later)?**
-**A:** Coming soon! Afterpay Donations launching Q1 2025:
-- Donate $100 AUD now
-- Pay $25 AUD every 2 weeks (interest-free!)
-- Mary & Lydia get full $100 immediately
 
 ### **Q: Do you accept physical donations (clothes, wheelchairs)?**
 **A:** Currently, no (shipping costs exceed value). **Cash donations are more impactful:**
@@ -417,9 +374,9 @@ When you donate, you can expect:
 Before donating, verify:
 
 - [ ] Website is secure (https://)
-- [ ] PayPal/Stripe payment badge visible
+- [ ] Paystack secure checkout badge visible
 - [ ] Tax receipt promised (for future DGR/donee status claim)
-- [ ] Currency conversion shown in AUD/NZD
+- [ ] Amount shown in USD (your bank converts from AUD/NZD)
 - [ ] Beneficiary names listed (Mary & Lydia)
 - [ ] Social media accounts active
 - [ ] Video proof available (YouTube)

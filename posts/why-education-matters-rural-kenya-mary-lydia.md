@@ -278,7 +278,7 @@ Check our [Transparency Page](/transparency) for detailed breakdowns.
 ### 💳 Payment Options
 
 **Quick Donations:** ⚡
-- 💙 **PayPal:** [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)
+- 💳 **Card or Apple Pay (Paystack):** [Donate →](/donate)
 - 🇰🇪 **M-PESA (Kenya):** Paybill: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">&#x32;&#x34;&#x37;&#x32;&#x34;&#x37;</code>, Account: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">&#x30;&#x35;&#x31;&#x30;&#x31;&#x37;&#x37;&#x34;&#x38;&#x37;&#x38;&#x39;&#x32;</code>
 - 🪙 **Cryptocurrency:** ₿ `Bitcoin`, Ξ `Ethereum`, 💵 `USDT` accepted
 

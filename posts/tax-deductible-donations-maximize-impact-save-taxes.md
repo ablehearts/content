@@ -341,7 +341,7 @@ You bought stock for $1,000, now worth $5,000.
 - Includes all required information
 
 ✅ **Multiple Donation Methods**
-- Cash donations (PayPal, Stripe)
+- Cash donations (card or Apple Pay via Paystack, M-PESA)
 - Credit cards (earn rewards + deduction)
 - Cryptocurrency (avoid capital gains)
 - Bank transfers (for large donations)

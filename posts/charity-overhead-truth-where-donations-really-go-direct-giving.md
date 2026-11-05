@@ -135,7 +135,7 @@ Some charities use creative accounting to hide overhead:
 - **$300 actual impact** (if you're lucky)
 
 **AbleHearts Direct Route:**
-- $500 donation via PayPal/crypto/bank transfer
+- $500 donation via card/M-PESA/crypto/bank transfer
 - -$0 overhead
 - **$500 reaches Mary & Lydia** (within days)
 - **$500 actual impact:** Wheelchair, medical care, food, education
@@ -286,7 +286,7 @@ Some charities use creative accounting to hide overhead:
 - ✅ Volunteer-run (no salaries)
 - ✅ No physical offices (online only)
 - ✅ No marketing budget (word of mouth, social media)
-- ✅ Donations go directly to Mary & Lydia via PayPal, bank transfer, or M-PESA
+- ✅ Donations go directly to Mary & Lydia via card (Paystack), bank transfer, or M-PESA
 
 ### Q: Is direct giving sustainable?
 
@@ -347,8 +347,7 @@ But for **individual human needs** (wheelchairs, medical care, food, education):
 - 🏠 Safe housing away from land-grabbing threats
 
 **Payment Options:**
-- 💙 PayPal: hesbonosoro1@gmail.com
-- 💳 Credit Card: Stripe checkout
+- 💳 Card or Apple Pay: Paystack checkout
 - 💰 Crypto: Bitcoin, Ethereum, USDT
 - 📱 M-PESA: Direct to Kenya
 
