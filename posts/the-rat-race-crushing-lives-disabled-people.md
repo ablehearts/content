@@ -353,14 +353,27 @@ Now imagine running this rat race with **two legs broken** (literally).
 - Accessible housing? More expensive
 
 **Taxation:**
-- Same taxes as everyone else
-- But **lower or no income**
-- **No tax breaks for disability expenses**
+- Kenya **does** offer an income-tax exemption for persons with disabilities (more below)
+- But it covers **income tax only**, so it helps little when you have **lower or no income**
+- Everyday costs, from food to assistive devices, are paid **at full price**
 
 **Even professionals who are disabled face:**
 - Discrimination
 - Inaccessible workplaces
 - Lower pay (if hired at all)
+
+### What About the Disability Tax Exemption? 🧾♿
+
+To be fair and accurate: Kenya does have an income-tax exemption for persons with disabilities. According to the [Kenya Revenue Authority (KRA)](https://www.kra.go.ke/news-center/public-notices/2095-income-tax-exemption-for-persons-with-disability), a person with a disability who is **registered with the National Council for Persons with Disabilities (NCPWD)** can apply, through the Council, for exemption from income tax on the first **Ksh 150,000 of their income per month** (Ksh 1.8 million per year). Applicants go through vetting and need an NCPWD certificate and a KRA PIN. KRA has also published [draft regulations for 2026](https://www.kra.go.ke/news-center/public-notices/2414-income-tax-persons-with-disabilities,-parents-or-guardians-tax-exemptions-regulations,-2026) that could change how the exemption works, so check KRA for the latest rules.
+
+That exemption matters for disabled people who are employed or earn an income. But notice what it covers:
+
+- ✅ **Income tax** on money you earn
+- ❌ **Not VAT** on the many everyday goods it applies to, such as soap and household items
+- ❌ **Not fuel levies** built into every matatu fare
+- ❌ **Not the price** of medicine, clinic visits, wound dressings or wheelchairs
+
+For people like Mary & Lydia, who have **no taxable income**, an income-tax exemption does very little. Their daily costs, food, transport, medical care and assistive devices, are paid at full price like everyone else's. And as inflation has pushed those prices up year after year, the same shilling buys less, which makes every day harder for them.
 
 **For disabled people, the rat race is not just hard—it's almost impossible to enter.**
 
@@ -475,7 +488,7 @@ Your donation 💵 gives them that chance. ✨
 
 **Help them escape the rat race 🐀 they were never allowed to enter.**
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 

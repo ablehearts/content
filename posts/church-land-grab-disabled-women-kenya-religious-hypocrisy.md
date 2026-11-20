@@ -44,7 +44,7 @@ featured: false
 17. [📊 Transparency: Every Dollar Documented](#-transparency-every-dollar-documented)
 18. [❓ FAQs: The Land Victory & Housing Need](#-faqs-the-land-victory--housing-need)
 19. [🙏 The Bottom Line: Greed Overlooked Disability. You Can Overlook Greed.](#-the-bottom-line-greed-overlooked-disability-you-can-overlook-greed)
-20. [🚀 Donate Now: Build Mary & Lydia's Accessible Home](#-donate-now-build-mary--lydias-accessible-home)
+20. [🚀 Donate Securely: Build Mary & Lydia's Accessible Home](#-donate-securely-build-mary--lydias-accessible-home)
 
 ---
 
@@ -377,7 +377,7 @@ Even the MOTHER of the victim is silenced—not by force, but by **economic and 
 - ❌ Special treatment because they're disabled
 
 **They're asking for:**
-- ✅ **Protection of their EXISTING land** (inherited from their mother)
+- ✅ **Protection of their EXISTING land** (inherited from Mary's mother)
 - ✅ **Basic accessibility** (a pathway, a seat—so they can attend church like everyone else)
 - ✅ **Recognition of their contributions** (decades of free storage, free catering, free labor)
 - ✅ **Equality under God** (if the church preaches love, SHOW IT)
@@ -796,17 +796,17 @@ You see:
 
 ---
 
-## 🚀 Donate Now: Build Mary & Lydia's Accessible Home
+## 🚀 Donate Securely: Build Mary & Lydia's Accessible Home
 
 **The land is theirs. Let's build on it.**
 
-**[Donate Now](https://able-hearts.org/donate)**
+**[Donate securely](https://able-hearts.org/donate)**
 
 **Every dollar = One step closer to dignity.**
 
 ---
 
-*This post is part of the AbleHearts Impact Stories series, documenting the lives of Mary & Lydia—two disabled women in rural Kenya fighting for survival, dignity, and justice.*
+*This post is part of the AbleHearts Impact Stories series, documenting the lives of Mary & her daughter Lydia—two disabled women in rural Kenya fighting for survival, dignity, and justice.*
 
 *UPDATE: October 22, 2025 - Land ownership SECURED. Now building accessible housing.*
 

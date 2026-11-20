@@ -662,7 +662,7 @@ But there's a catch: **Breaking through the noise is HARD.** 📢❌
 **We're documenting the journey.** 📖
 
 **How you can help**:
-- ✅ **Donate**: Support Mary & Lydia → [Donate Now](/donate)
+- ✅ **Donate**: Support Mary & Lydia → [Donate securely](/donate)
 - ✅ **Share**: Use your influence (however small) to amplify our story 📢
 - ✅ **Follow**: Stay updated on our progress 📱
 - ✅ **Engage**: Comment, like, share—every interaction helps 💬

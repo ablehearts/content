@@ -169,7 +169,7 @@ Mary and Lydia need this equipment **urgently**. Every day without proper suppor
 - Increased caregiver burden
 - Greater health risks
 
-### Donate Now
+### Donate Securely
 [**Make a Donation →**](/donate)
 
 ### Share This Appeal

@@ -161,7 +161,7 @@ Mary and Lydia have shared their stories and demonstrated their challenges in vi
 
 **2019 was the year their world ended.**
 
-Mary and Lydia's mother and sister—their primary caregivers and only financial support—were both **poisoned by a close in-law relative who served them contaminated water**. Both died within 2 weeks in the same hospital. Mary, despite her disability, stayed by their bedsides as a patient-looker, watching them die.
+Mary's mother and sister (Lydia's grandmother and aunt)—the family's primary caregivers and only financial support—were both **poisoned by a close in-law relative who served them contaminated water**. Both died within 2 weeks in the same hospital. Mary, despite her disability, stayed by their bedsides as a patient-looker, watching them die.
 
 **The perpetrators were motivated by land greed—targeting a family with "nothing to envy" except a small plot of land.**
 
@@ -343,7 +343,7 @@ When you donate to AbleHearts, you become part of Mary and Lydia's journey towar
 - 💌 Personal messages from Mary and Lydia
 - 🩺 Medical progress reports
 - 🏆 Stories of daily victories and challenges
-- 📑 Transparent financial reporting
+- 📑 How donations are used, shown on our [Transparency page](/transparency)
 
 ---
 
@@ -362,10 +362,9 @@ When you donate to AbleHearts, you become part of Mary and Lydia's journey towar
 - 🖼️ Receive authentic updates and photos
 
 ### 🔍 Verified and Transparent
-- 🧾 All donations tracked and reported
-- 📊 Regular financial statements
+- 🧾 How donations are used, shown on our [Transparency page](/transparency)
 - 🎥 Photo and video documentation
-- 🧾 Tax receipts provided
+- 🧾 Receipts and an account of how your gift was spent, on request
 
 ---
 
@@ -390,7 +389,7 @@ Mary and Lydia have waited over 20 years for consistent support. Your donation t
 **A:** While direct communication is limited by language and technology barriers, we share their messages and can arrange special updates.
 
 ### Q: Are donations tax-deductible?
-**A:** Yes! AbleHearts provides official tax receipts for USA and Canadian donors.
+**A:** Not at the moment. AbleHearts is not yet a registered charity and does not have tax-exempt status, so gifts are not tax-deductible in the USA, Canada or anywhere else. We will update this once registration is complete.
 
 ### Q: What if I can only give a small amount?
 **A:** Every amount helps! Even $10 provides essential supplies. Consistent small donations add up to life-changing support.

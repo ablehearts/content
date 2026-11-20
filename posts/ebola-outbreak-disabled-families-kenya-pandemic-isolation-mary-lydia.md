@@ -2,7 +2,7 @@
 id: 45
 slug: "ebola-outbreak-disabled-families-kenya-pandemic-isolation-mary-lydia"
 title: "When Ebola Comes: How a Pandemic Isolates Those Who Were Already Alone"
-excerpt: "Ebola is trending. Kenya is being travel-banned. For most families, a pandemic is a crisis. For Mary and Lydia — two disabled women in rural Kisii who already live in near-total isolation — it is an existential threat. Their only lifeline is the informal economy. If that stops, everything stops."
+excerpt: "Ebola is trending. Kenya is being travel-banned. For most families, a pandemic is a crisis. For Mary and her daughter Lydia — two disabled women in rural Kisii who already live in near-total isolation — it is an existential threat. Their only lifeline is the informal economy. If that stops, everything stops."
 category: "Our Story"
 author: "AbleHearts Team"
 date: "June 2026"
@@ -175,7 +175,7 @@ Every donation goes 100% to Mary and Lydia — no overhead, no administrative fe
 - 📱 M-PESA: Direct to Kenya
 - ₿ Crypto: Bitcoin, USDT, BNB accepted
 
-[**Donate Now — 100% Reaches Mary & Lydia**](/donate)
+[**Donate securely — 100% Reaches Mary & Lydia**](/donate)
 
 ---
 

@@ -552,7 +552,7 @@ featured: false
 - ⚡ **Solar Power System:** $1,200-1,700
 - **Total:** $1,350-2,100
 
-**💳 Donate Monthly Support:**
+**💳 Give Monthly (give again each month yourself on the [donate page](/donate); there is no automatic billing):**
 - 💰 **$50/month:** Covers Starlink internet
 - 💰 **$100/month:** Internet + medical care
 - 💰 **$200/month:** Full support (internet, food, medicine)
@@ -593,7 +593,7 @@ featured: false
 
 ---
 
-## 💳 Donate Now
+## 💳 Donate Securely
 
 **Card or Apple Pay (Paystack):**
 - 💳 [Donate →](/donate)
@@ -649,7 +649,7 @@ featured: false
 - 💼 [25-Year Entrepreneurial Journey](/blog/mary-lydia-entrepreneurial-journey-disabled-women-kenya)
 - 🛰️ [China Adaptive Furniture & Tech](/blog/china-adaptive-furniture-tech-solutions-disabled-kenya)
 - 🎓 [Tech Education Facility](/blog/ablehearts-tech-education-facility-empower-people-with-disabilities-digital-skills)
-- 💰 [Donate Now](/donate)
+- 💰 [Donate securely](/donate)
 
 **📧 Contact:** [donations@able-hearts.org](donations@able-hearts.org)
 **📱 Follow:** [X(Twitter)](https://x.com/able_hearts_ke) | [Tiktok](https://tiktok.com/@able_hearts)

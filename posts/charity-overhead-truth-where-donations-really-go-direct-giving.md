@@ -244,10 +244,10 @@ Some charities use creative accounting to hide overhead:
 - 💰 Or donate for their most urgent need
 - 📊 See exactly how your $ was spent
 
-**5. Tax-Deductible (USA, Canada, and more):**
-- We're structured to provide tax receipts
-- Same benefits as donating to big charities
-- But 100% of your donation creates impact
+**5. Honest About Our Status:**
+- AbleHearts is not yet a registered charity and has no tax-exempt status
+- So gifts are not tax-deductible for now; we will say so clearly when that changes
+- What we can promise: 100% of your donation goes to Mary & Lydia's needs
 
 ---
 
@@ -353,7 +353,7 @@ But for **individual human needs** (wheelchairs, medical care, food, education):
 
 **100% of your donation. 0% overhead. Real people. Real impact.**
 
-[Donate Now](/donate) | [See Transparency Reports](/transparency) | [Meet Mary & Lydia](/about)
+[Donate securely](/donate) | [See Transparency Reports](/transparency) | [Meet Mary & Lydia](/about)
 
 ---
 

@@ -2,7 +2,7 @@
 id: 2
 slug: "monthly-giving-vs-one-time-donations-which-helps-more"
 title: "Monthly Giving vs One-Time Donations: Which Helps More?"
-excerpt: "Discover why recurring donations create lasting impact. Compare benefits, tax advantages, and see real examples."
+excerpt: "Discover why recurring donations create lasting impact. Compare the benefits and see real examples."
 category: "Donation Guides"
 author: "AbleHearts Team"
 date: "February 15, 2024"
@@ -24,7 +24,7 @@ featured: false
   - 🔁 Consistent, reliable support for ongoing programs
   - 💸 Smaller, budget-friendly amounts add up over time
   - 📉 Lower administrative costs and processing fees overall
-  - 🗓️ Same annual tax benefits with less effort
+  - 🗓️ Less effort: set it once and it keeps helping
   
   ## 🎯 When One-Time Donations Make Sense
   
@@ -61,7 +61,6 @@ featured: false
   
   - 💳 If you budget monthly: choose a sustainable amount (e.g., $15–$50)
   - 🚀 If you prefer targeted impact: plan 2–3 one-time gifts per year
-  - 🧮 Optimize taxes: consolidate year-end gifts if itemizing
   - 🤝 Best of both: set a base monthly gift + boost when urgent needs arise
   
   ## ❓ Frequently Asked Questions

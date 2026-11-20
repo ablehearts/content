@@ -802,7 +802,7 @@ Now it's your turn.
 We started from zero. We're documenting the journey.
 
 **How you can help**:
-- ✅ **Donate**: Support Mary & Lydia → [Donate Now](/donate)
+- ✅ **Donate**: Support Mary & Lydia → [Donate securely](/donate)
 - ✅ **Learn**: Explore our code, use our tools, improve them
 - ✅ **Start**: Take the first step on YOUR idea today
 

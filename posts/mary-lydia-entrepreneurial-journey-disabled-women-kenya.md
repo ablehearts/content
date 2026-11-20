@@ -483,11 +483,11 @@ This is their untold entrepreneurial story.
 
 **🏡 Donate Housing Stability:**
 - 🏠 **Permanent housing:** $15,000-25,000
-- **Or monthly support:** $50-100/month
+- **Or monthly support:** $50-100/month, given again each month on the [donate page](/donate)
 
 ---
 
-## 💳 Donate Now
+## 💳 Donate Securely
 
 ### Multiple Payment Options:
 
@@ -531,4 +531,4 @@ Now, with tech, AI, and compassionate support, they can FINALLY break free.
 - 📖 [Mary & Lydia's Full Story](/blog/mary-lydia-story-20-years-resilience-disability-kenya)
 - 🛰️ [China Adaptive Furniture & Tech](/blog/china-adaptive-furniture-tech-solutions-disabled-kenya)
 - 🎓 [Tech Education Facility](/blog/ablehearts-tech-education-facility-empower-people-with-disabilities-digital-skills)
-- 💰 [Donate Now](/donate)
+- 💰 [Donate securely](/donate)

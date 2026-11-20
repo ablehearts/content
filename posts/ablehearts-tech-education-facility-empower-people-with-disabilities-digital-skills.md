@@ -381,7 +381,7 @@ When we bring **Starlink satellite internet** to a village to train Mary & Lydia
 - **$50,000:** Sponsor entire cohort (50 students for 6 months)
 - **$100,000:** Build the full facility, global recognition
 
-**Donate Now:** [/donate](/donate)
+**Donate securely:** [/donate](/donate)
 
 #### 2. **Donate Equipment**
 
@@ -416,7 +416,7 @@ When we bring **Starlink satellite internet** to a village to train Mary & Lydia
 - **Donate Starlink dishes** for rural Kenya hubs (1-5 dishes)
 - **Subsidized internet:** $50/month instead of $120 for nonprofits
 - **Pilot partnership:** Connect 1 village, document impact, scale globally
-- **Tax benefits:** USA corporate deduction + global PR value
+- **Global PR value:** A visible connectivity success story
 - **Vision alignment:** "Make life multiplanetary" starts with connecting Earth's unreachable
 
 **📱 Meta (Mark Zuckerberg):**
@@ -533,7 +533,7 @@ This isn't about handouts—it's about **hand-ups**. We're not giving fish; we'r
 ## 📚 Additional Resources
 
 **For Donors:**
-- [Donate Now](/donate) - Support the tech facility
+- [Donate securely](/donate) - Support the tech facility
 - [FAQ](/faq) - Common questions
 
 **For Volunteers:**

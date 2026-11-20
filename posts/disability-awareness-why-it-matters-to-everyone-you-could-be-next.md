@@ -443,7 +443,7 @@ But it's grown into something bigger:
 
 **100% of donations go directly to Mary & Lydia. Zero overhead. Full transparency.**
 
-[**Donate Now**](/donate)
+[**Donate securely**](/donate)
 
 ---
 

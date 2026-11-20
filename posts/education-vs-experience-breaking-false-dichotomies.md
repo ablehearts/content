@@ -434,7 +434,7 @@ Most people—educated or not—don't know these names. But their discoveries re
 
 ## 🌟 Why This Matters for AbleHearts
 
-At AbleHearts, we support Mary and Lydia—two disabled women in Kenya who have been denied **both formal education and practical opportunities** due to systemic barriers.
+At AbleHearts, we support Mary and her daughter Lydia—two disabled women in Kenya who have been denied **both formal education and practical opportunities** due to systemic barriers.
 
 ### The Compounding Effect of Exclusion 🚧
 
@@ -512,7 +512,7 @@ Mary and Lydia deserve access to **both**. 🙏 So do millions of others facing 
 - 🍽️ Nutritious food (produced by farmers, distributed by entrepreneurs) 🌾
 - 📱 Communication tools (invented by scientists, made accessible by technicians) 🔧
 
-[**Donate Now**](/donate) 💝 and support a world where education and experience work together—not against each other. 🤝✨
+[**Donate securely**](/donate) 💝 and support a world where education and experience work together—not against each other. 🤝✨
 
 ---
 

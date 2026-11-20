@@ -343,7 +343,7 @@ Mary, Lydia, and millions of disabled women are not asking for pity. They're dem
 ## 📚 Additional Resources
 
 **For Donors:**
-- [Donate Now](/donate) - Support Mary, Lydia & vulnerable women
+- [Donate securely](/donate) - Support Mary, Lydia & vulnerable women
 
 **For Organizations:**
 - Email: [donations@able-hearts.org](mailto:donations@able-hearts.org) (Partnership inquiries)

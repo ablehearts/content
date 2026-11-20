@@ -1,8 +1,8 @@
 ---
 id: 6
 slug: "tax-benefits-international-charitable-giving-usa-canada"
-title: "Tax Benefits of International Charitable Giving: Complete Guide for USA & Canada"
-excerpt: "Maximize tax deductions when donating to Kenya charities. Complete guide with examples, limits, and crypto donation strategies."
+title: "Tax Rules for International Charitable Giving: A Guide for USA & Canada"
+excerpt: "How US and Canadian tax rules treat gifts to registered charities that work abroad: limits, records and crypto. AbleHearts is not yet registered, so gifts to it are not tax-deductible."
 category: "Tax & Finance"
 author: "AbleHearts Team"
 date: "January 20, 2024"
@@ -11,9 +11,11 @@ tags: ["tax deductions","USA","Canada"]
 featured: false
 ---
 
-# Tax Benefits of International Charitable Giving: Complete Guide for USA & Canada (2024)
+# Tax Rules for International Charitable Giving: A Guide for USA & Canada (2024)
 
-  Did you know that donating to international charities like AbleHearts can provide significant tax benefits while making a global impact? Many Americans and Canadians miss out on substantial tax savings simply because they don't understand international charitable giving rules.
+  Donating to a charity that works abroad can bring tax benefits, but only when that charity is registered with your own country's tax authority. Many Americans and Canadians don't know where that line is.
+
+  **Where AbleHearts stands:** AbleHearts is not yet a registered charity and does not have 501(c)(3), CRA or any other tax-exempt status, so gifts to AbleHearts are **not** tax-deductible today. The rules below explain how deductions work for gifts to charities that *are* registered.
 
   ## 📋 Table of Contents
   1. [Can I Deduct International Donations?](#can-i-deduct-international-donations)
@@ -27,7 +29,7 @@ featured: false
 
   ## 🌐 Can I Deduct International Donations?
 
-  **Short answer: YES!** But with important conditions.
+  **Short answer: sometimes.** Only when the charity is registered in your country.
 
   ### The Key Requirement:
   The charity must be recognized by your country's tax authority:
@@ -35,7 +37,7 @@ featured: false
   - **Canada:** Must be registered with CRA
 
   ### What About Charities Based in Kenya?
-  Many international charities operate in Kenya but are registered in USA/Canada to provide tax benefits. This is perfectly legal and common.
+  Many international charities operate in Kenya but are registered in USA/Canada, which is what makes gifts to them deductible there. This is legal and common. A group that works in Kenya without that registration, such as AbleHearts today, does not qualify.
 
   ---
 
@@ -57,19 +59,17 @@ featured: false
 
   *AGI = Adjusted Gross Income*
 
-  ### Real Example: USA Donor
+  ### Worked Example: USA Donor (gift to a 501(c)(3) charity)
 
   **Scenario:**
   - Your AGI: $80,000
   - Tax bracket: 24%
-  - Donate $2,000 to AbleHearts
+  - Donate $2,000 to a qualified 501(c)(3) charity
 
   **Tax Calculation:**
   Donation: $2,000
   Tax savings: $2,000 × 24% = $480
   Effective cost: $2,000 - $480 = $1,520
-
-  **Result:** You help Mary & Lydia, and it only costs you $1,520!
 
   ### Documentation Requirements (IRS)
 
@@ -111,19 +111,17 @@ featured: false
 
   </div>
 
-  ### Real Example: Canadian Donor (Ontario)
+  ### Worked Example: Canadian Donor (Ontario, gift to a CRA-registered charity)
 
   **Scenario:**
   - Your income: $75,000
-  - Donate $1,500 to AbleHearts
+  - Donate $1,500 to a CRA-registered charity
 
   **Tax Calculation:**
   First $200: $200 × 20.05% = $40.10
   Remaining $1,300: $1,300 × 46.41% = $603.33
   Total tax credit: $643.43
   Effective cost: $1,500 - $643.43 = $856.57
-
-  **Result:** You provide life-changing support for only $856.57!
 
   ### Documentation Requirements (CRA)
 
@@ -198,7 +196,7 @@ featured: false
 
   ## 💎 Cryptocurrency Donations
 
-  Donating cryptocurrency is one of the **most tax-efficient** ways to give!
+  For gifts to a registered charity, donating cryptocurrency can be one of the **most tax-efficient** ways to give.
 
   ### Why Crypto Donations Are Powerful
 
@@ -222,13 +220,11 @@ featured: false
   - Full market value tax credit
   - Must be publicly traded (Bitcoin, Ethereum, etc.)
 
-  ### How to Donate Crypto to AbleHearts
+  ### Giving Crypto to AbleHearts
 
-  1. **Bitcoin (BTC):** Send to verified address
-  2. **USDT (Tether):** TRC20 network - lowest fees
-  3. **Via Binance Pay:** Multiple cryptocurrencies supported
+  AbleHearts accepts Bitcoin (BTC), USDT (TRC20) and Binance Pay. Because AbleHearts is not yet a registered charity, a crypto gift to AbleHearts is **not** tax-deductible and does not get the capital gains treatment described above.
 
-  **Important:** Always verify charity's official crypto addresses!
+  **Important:** Always verify a charity's official crypto addresses!
 
   ---
 
@@ -272,7 +268,7 @@ featured: false
 
   ---
 
-  ## 📊 Tax Savings Comparison Table
+  ## 📊 Tax Savings Comparison Table (gifts to registered charities only)
 
   <div class="table-wrapper-scroll">
 
@@ -287,13 +283,11 @@ featured: false
 
   ---
 
-  ## 🎯 Maximize Your Impact Today
+  ## 🎯 Key Takeaways
 
-  Understanding tax benefits means you can give more while spending less!
-
-  **Key Takeaways:**
-  - International donations ARE tax-deductible
+  - International donations are tax-deductible only through a charity registered in your country
   - Keep proper documentation
-  - Consider crypto for extra tax benefits
-  - Use smart strategies to maximize deductions
+  - For registered charities, crypto and appreciated stock can bring extra tax benefits
   - Verify charity status before donating
+
+  AbleHearts is not yet registered, so gifts to Mary & Lydia through AbleHearts are not tax-deductible. If you would still like to help them, you can [donate securely](/donate).
