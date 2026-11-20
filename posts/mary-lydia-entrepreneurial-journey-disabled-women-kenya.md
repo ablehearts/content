@@ -483,7 +483,7 @@ This is their untold entrepreneurial story.
 
 **🏡 Donate Housing Stability:**
 - 🏠 **Permanent housing:** $15,000-25,000
-- **Or monthly support:** $50-100/month
+- **Or monthly support:** $50-100/month, given again each month on the [donate page](/donate)
 
 ---
 

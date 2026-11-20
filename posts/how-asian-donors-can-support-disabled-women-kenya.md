@@ -15,7 +15,7 @@ featured: false
 
 From Mumbai to Tokyo, Singapore to Manila—compassion knows no borders. Asian donors are increasingly supporting causes in Africa, creating a powerful bridge of humanity between the world's two most populous continents.
 
-This guide shows donors from India 🇮🇳, China 🇨🇳, Japan 🇯🇵, Singapore 🇸🇬, Philippines 🇵🇭, and across Asia how to safely support Mary and Lydia, two disabled women in Kenya who need wheelchairs, medical care, and education.
+This guide shows donors from India 🇮🇳, China 🇨🇳, Japan 🇯🇵, Singapore 🇸🇬, Philippines 🇵🇭, and across Asia how to safely support Mary and her daughter Lydia, two disabled women in Kenya who need wheelchairs, medical care, and education.
 
 ## 📋 Table of Contents
 1. [Why Asian-African Giving Matters](#why-asian-african)

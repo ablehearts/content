@@ -82,7 +82,7 @@ Now we face the world together - two disabled women trying to survive in a socie
 - We can't farm effectively - the primary income source in rural Kenya
 - We can't travel easily for opportunities
 - We depend on each other, but both of us need help
-- Lydia's younger sister helps, but she has her own life to build
+- Lydia's sister helps, but she has her own life to build
 
 ### 🔇 The In-Laws' Continued Silence
 

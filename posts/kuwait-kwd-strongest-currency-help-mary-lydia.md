@@ -42,7 +42,7 @@ Kuwait's currency strength comes from:
 
 ## 🎯 What Your KWD Can Do for Mary & Lydia in Kenya
 
-Mary and Lydia are two disabled women in rural Kenya fighting for survival. Their story isn't about luxury—it's about basic human dignity: food, medical care, shelter, and safety.
+Mary and her daughter Lydia are two disabled women in rural Kenya fighting for survival. Their story isn't about luxury—it's about basic human dignity: food, medical care, shelter, and safety.
 
 **Here's the real-world impact of your KWD:**
 
@@ -101,7 +101,7 @@ While a $10 USD donation is generous, a 3 KWD donation (same value) feels more a
 
 **Example:**
 - **3 KWD** ≈ cost of one latte in Kuwait City
-- **3 KWD** = one week of food for two disabled women in Kenya
+- **3 KWD** = one week of food for a disabled mother and her daughter in Kenya
 - **Impact ratio: 1 coffee = 7 days of meals**
 
 ### 2. **Kuwait's Islamic Heritage of Zakat & Sadaqah**
@@ -221,7 +221,7 @@ To help with that conversation, we can give you:
 
 - 🧾 **A written receipt** for your gift
 - 📋 **An account of how your gift was used** for Mary & Lydia (for example food, medicine, transport or wound care)
-- 👥 **Plain facts about who receives it** - two disabled women in rural Kenya with no income of their own
+- 👥 **Plain facts about who receives it** - a disabled mother and her daughter in rural Kenya with no income of their own
 
 ### Sadaqah: always welcome
 
@@ -264,7 +264,7 @@ Lydia's 10+ year untreated wounds require **urgent specialized care** unavailabl
 
 ### 2. **Permanent Safe Housing (3,000-7,500 KWD)**
 
-Mary and Lydia **cannot stay on their current land**—they will be poisoned like their mother and sister:
+Mary and Lydia **cannot stay on their current land**—they fear they will be poisoned like Mary's mother and sister:
 - 🏞️ **Land purchase** in safer region
 - 🏗️ **Accessible home construction** (ramps, wide doors)
 - 🔐 **Security fencing** from land-grabbers

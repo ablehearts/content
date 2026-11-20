@@ -552,7 +552,7 @@ featured: false
 - ⚡ **Solar Power System:** $1,200-1,700
 - **Total:** $1,350-2,100
 
-**💳 Donate Monthly Support:**
+**💳 Give Monthly (give again each month yourself on the [donate page](/donate); there is no automatic billing):**
 - 💰 **$50/month:** Covers Starlink internet
 - 💰 **$100/month:** Internet + medical care
 - 💰 **$200/month:** Full support (internet, food, medicine)

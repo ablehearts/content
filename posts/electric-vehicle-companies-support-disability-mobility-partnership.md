@@ -15,7 +15,7 @@ featured: false
 
 **A Win-Win Partnership: Environmental Sustainability Meets Social Impact**
 
-The electric vehicle revolution isn't just about reducing emissions—it's about creating accessible, sustainable transportation for everyone. **Mary and Lydia**, two disabled women in Kenya, need reliable 4x4 transportation for medical care, but this represents a bigger opportunity: **EV companies can lead disability mobility innovation and earn global recognition.**
+The electric vehicle revolution isn't just about reducing emissions—it's about creating accessible, sustainable transportation for everyone. **Mary and her daughter Lydia**, two disabled women in Kenya, need reliable 4x4 transportation for medical care, but this represents a bigger opportunity: **EV companies can lead disability mobility innovation and earn global recognition.**
 
 ---
 

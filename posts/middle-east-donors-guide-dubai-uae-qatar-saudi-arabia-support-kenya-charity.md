@@ -15,7 +15,7 @@ featured: false
 
 **السلام عليكم ورحمة الله وبركاته (Peace be upon you)**
 
-Brothers and sisters in the Middle East, your compassion transforms lives across borders. **Mary and Lydia**, two disabled women in Kenya, need your support for wheelchairs, medical care, and daily essentials. This guide shows you how to give effectively from Dubai, UAE, Qatar, Saudi Arabia, and across the Arabian Gulf.
+Brothers and sisters in the Middle East, your compassion transforms lives across borders. **Mary and her daughter Lydia**, two disabled women in Kenya, need your support for wheelchairs, medical care, and daily essentials. This guide shows you how to give effectively from Dubai, UAE, Qatar, Saudi Arabia, and across the Arabian Gulf.
 
 ---
 

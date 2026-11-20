@@ -37,7 +37,7 @@ featured: true
   Your donation from USA or Canada can make a **life-changing impact** because of the exchange rate advantage. A $100 USD donation provides what would cost $500+ in North America.
   
   ### 📸 Real Impact Example: Mary & Lydia
-  At AbleHearts, we support Mary and Lydia—two disabled women who have lived with mobility challenges for over 20 years. After losing their primary caregiver in 2019, they've struggled to afford basic necessities like wheelchairs, medical treatment, and daily care.
+  At AbleHearts, we support Mary and her daughter Lydia—two disabled women who have lived with mobility challenges for over 20 years. After losing their primary caregiver in 2019, they've struggled to afford basic necessities like wheelchairs, medical treatment, and daily care.
   
   **Your $50 donation provides:**
   - 💊 One month of medical supplies

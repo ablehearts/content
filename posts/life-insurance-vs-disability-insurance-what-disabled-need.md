@@ -17,7 +17,7 @@ When you think about insurance, you probably think about protecting your family 
 
 **But what about protection *while* you're still alive?** 🤔
 
-For Mary and Lydia—two disabled women in rural Kenya struggling with mobility impairments and daily survival—the question isn't "What happens when we die?" It's **"How do we live with dignity today?"** 🦽
+For Mary and her daughter Lydia—two disabled women in rural Kenya struggling with mobility impairments and daily survival—the question isn't "What happens when we die?" It's **"How do we live with dignity today?"** 🦽
 
 This is the crucial difference between **life insurance** and **disability insurance**. And for millions of disabled people worldwide, understanding this difference could mean the gap between despair and hope.
 
@@ -271,10 +271,10 @@ Additionally, most insurers exclude pre-existing conditions, so their disabiliti
 
 **But Mary and Lydia earn essentially $0/year.** 📉 So even "affordable" insurance is out of reach.
 
-### Q: Can I set up a recurring donation to act as their "insurance premium"? 🔄
+### Q: Can I give monthly, like an "insurance premium"? 🔄
 
 **A:** Automatic recurring billing isn't available, but you can give the same amount again each month on the [donate page](/donate). ✅ You can also contact us via [WhatsApp: <code class="px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 font-mono text-base tracking-wide">+254 107 145 882</code>](https://wa.me/254107145882) or email [donations@able-hearts.org](mailto:donations@able-hearts.org) to plan:
-- 📅 Monthly donations (like insurance premiums)
+- 📅 A monthly amount you give again yourself (like an insurance premium)
 - 🎯 Direct sponsorship for specific needs (wheelchair, medical care, etc.)
 - 🤝 Long-term support commitments
 

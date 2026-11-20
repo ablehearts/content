@@ -13,7 +13,7 @@ featured: false
 
 # Australian & New Zealand Donors Guide: Help Disabled Women in Kenya
 
-G'day! From Sydney to Auckland, Australians and New Zealanders have always punched above their weight when it comes to international aid. Now you can make a massive impact for Mary and Lydia, two disabled women in Kenya, with your strong AUD/NZD dollar.
+G'day! From Sydney to Auckland, Australians and New Zealanders have always punched above their weight when it comes to international aid. Now you can make a massive impact for Mary and her daughter Lydia, two disabled women in Kenya, with your strong AUD/NZD dollar.
 
 This guide shows Aussie and Kiwi donors how to safely donate, how tax deductions work for registered charities, and understand exactly how your hard-earned money transforms lives in East Africa.
 
