@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-05T06:58:58.790Z",
+  "generatedAt": "2026-11-20T13:20:29.137Z",
   "siteUrl": "https://able-hearts.org",
   "posts": [
     {
       "id": 45,
       "slug": "ebola-outbreak-disabled-families-kenya-pandemic-isolation-mary-lydia",
       "title": "When Ebola Comes: How a Pandemic Isolates Those Who Were Already Alone",
-      "excerpt": "Ebola is trending. Kenya is being travel-banned. For most families, a pandemic is a crisis. For Mary and Lydia — two disabled women in rural Kisii who already live in near-total isolation — it is an existential threat. Their only lifeline is the informal economy. If that stops, everything stops.",
+      "excerpt": "Ebola is trending. Kenya is being travel-banned. For most families, a pandemic is a crisis. For Mary and her daughter Lydia — two disabled women in rural Kisii who already live in near-total isolation — it is an existential threat. Their only lifeline is the informal economy. If that stops, everything stops.",
       "category": "Our Story",
       "author": "AbleHearts Team",
       "date": "June 2026",
@@ -74,7 +74,7 @@
         "big impact"
       ],
       "featured": false,
-      "readMinutes": 10
+      "readMinutes": 11
     },
     {
       "id": 42,
@@ -403,7 +403,7 @@
         "economic inequality"
       ],
       "featured": false,
-      "readMinutes": 12
+      "readMinutes": 13
     },
     {
       "id": 29,
@@ -478,8 +478,8 @@
     {
       "id": 26,
       "slug": "tax-deductible-donations-maximize-impact-save-taxes",
-      "title": "Tax-Deductible Donations Explained: Maximize Your Impact While Saving on Taxes",
-      "excerpt": "Learn how tax-deductible donations work, how to maximize your deductions for charity, and save money while supporting Mary & Lydia. Complete guide to IRS rules, donation limits, and tax-saving strategies for 2025.",
+      "title": "Tax-Deductible Donations Explained: How Charitable Deductions Work",
+      "excerpt": "A plain guide to how US charitable deductions work for gifts to registered charities: IRS rules, limits and records. AbleHearts is not yet a registered charity, so gifts to AbleHearts are not currently tax-deductible.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "July 2024",
@@ -487,12 +487,12 @@
       "tags": [
         "Tax Deductible",
         "IRS",
-        "Tax Savings",
-        "Charity Benefits",
+        "Tax Education",
+        "Charitable Giving",
         "Donations"
       ],
       "featured": false,
-      "readMinutes": 11
+      "readMinutes": 10
     },
     {
       "id": 25,
@@ -608,7 +608,7 @@
       "id": 20,
       "slug": "how-americans-can-safely-donate-to-kenya-2025",
       "title": "How Americans Can Safely Donate to Kenya: A Complete Guide (2025)",
-      "excerpt": "American donors guide to safely supporting Kenya charities. Verify legitimacy, avoid scams, maximize tax deductions. Includes Mary & Lydia success story.",
+      "excerpt": "American donors guide to safely supporting Kenya charities. Verify legitimacy, avoid scams, understand how US tax rules treat charitable gifts. Includes the story of Mary & Lydia.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "January 20, 2025",
@@ -617,11 +617,11 @@
         "USA",
         "Americans",
         "safety",
-        "tax-deductible",
+        "tax rules",
         "verification"
       ],
       "featured": true,
-      "readMinutes": 8
+      "readMinutes": 9
     },
     {
       "id": 19,
@@ -720,7 +720,7 @@
         "kinyozi receptionist"
       ],
       "featured": false,
-      "readMinutes": 18
+      "readMinutes": 19
     },
     {
       "id": 15,
@@ -834,7 +834,7 @@
       "id": 11,
       "slug": "electric-vehicle-companies-support-disability-mobility-partnership",
       "title": "Calling Electric Vehicle Companies: Partner for Disability Mobility & Environmental Impact",
-      "excerpt": "How EV manufacturers like Tesla, Rivian, and BYD can support disability mobility while advancing sustainability. Tax benefits, CSR impact, and partnership opportunities.",
+      "excerpt": "How EV manufacturers like Tesla, Rivian, and BYD can support disability mobility while advancing sustainability. CSR impact, honest tax status and partnership opportunities.",
       "category": "Impact Stories",
       "author": "AbleHearts Team",
       "date": "January 2025",
@@ -846,18 +846,17 @@
         "sustainability",
         "disability mobility",
         "corporate social responsibility",
-        "tax deduction",
         "environmental impact",
         "green initiative"
       ],
       "featured": false,
-      "readMinutes": 7
+      "readMinutes": 6
     },
     {
       "id": 10,
       "slug": "middle-east-donors-guide-dubai-uae-qatar-saudi-arabia-support-kenya-charity",
       "title": "Middle East Donors: How to Support Mary & Lydia from Dubai, UAE, Qatar & Saudi Arabia",
-      "excerpt": "Complete guide for Arabian Gulf donors. Zakat eligibility, Sadaqah Jariyah, tax benefits in UAE/Qatar/Saudi Arabia, payment methods, and cultural alignment with Islamic giving.",
+      "excerpt": "Complete guide for Arabian Gulf donors. Zakat and Sadaqah Jariyah, how giving is treated in UAE/Qatar/Saudi Arabia, payment methods, and cultural alignment with Islamic giving.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "January 2025",
@@ -872,18 +871,18 @@
         "sadaqah",
         "islamic giving",
         "charity",
-        "tax benefits",
+        "giving guide",
         "kenya",
         "arab donors"
       ],
       "featured": false,
-      "readMinutes": 7
+      "readMinutes": 8
     },
     {
       "id": 9,
       "slug": "australian-new-zealand-donors-guide-kenya-charity",
       "title": "Australian & New Zealand Donors: Supporting Disabled Women in Kenya",
-      "excerpt": "Aussie & Kiwi donors guide to helping Mary & Lydia in Kenya. AUD/NZD conversion, tax deductions, payment methods & how your dollar goes 5x further Down Under to Africa.",
+      "excerpt": "Aussie & Kiwi donors guide to helping Mary & Lydia in Kenya. AUD/NZD conversion, payment methods, how tax deductions work & how your dollar goes 5x further Down Under to Africa.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "January 23, 2025",
@@ -894,10 +893,10 @@
         "Oceania",
         "AUD",
         "NZD",
-        "tax-deductible"
+        "tax rules"
       ],
       "featured": false,
-      "readMinutes": 11
+      "readMinutes": 12
     },
     {
       "id": 8,
@@ -924,7 +923,7 @@
       "id": 7,
       "slug": "how-to-donate-safely-to-kenya-from-usa-canada",
       "title": "How to Safely Donate to Kenya from USA & Canada: Complete Guide (2024)",
-      "excerpt": "Learn how Americans & Canadians can safely donate to Kenya charities. Verify legitimacy, avoid scams, get tax receipts. Complete safety checklist included.",
+      "excerpt": "Learn how Americans & Canadians can safely donate to Kenya charities. Verify legitimacy, avoid scams, understand how tax deductions work. Complete safety checklist included.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "January 15, 2024",
@@ -936,13 +935,13 @@
         "verification"
       ],
       "featured": true,
-      "readMinutes": 7
+      "readMinutes": 8
     },
     {
       "id": 6,
       "slug": "tax-benefits-international-charitable-giving-usa-canada",
-      "title": "Tax Benefits of International Charitable Giving: Complete Guide for USA & Canada",
-      "excerpt": "Maximize tax deductions when donating to Kenya charities. Complete guide with examples, limits, and crypto donation strategies.",
+      "title": "Tax Rules for International Charitable Giving: A Guide for USA & Canada",
+      "excerpt": "How US and Canadian tax rules treat gifts to registered charities that work abroad: limits, records and crypto. AbleHearts is not yet registered, so gifts to it are not tax-deductible.",
       "category": "Tax & Finance",
       "author": "AbleHearts Team",
       "date": "January 20, 2024",
@@ -978,13 +977,13 @@
         "urgent"
       ],
       "featured": false,
-      "readMinutes": 13
+      "readMinutes": 14
     },
     {
       "id": 4,
       "slug": "ablehearts-vs-gofundme-which-is-better-international-charity",
       "title": "AbleHearts vs GoFundMe: Which Platform is Better for International Giving?",
-      "excerpt": "Comparing fees, tax benefits, transparency, and impact. See which platform maximizes your donation to Kenya families.",
+      "excerpt": "Comparing fees, tax status, transparency, and impact. See which option maximizes your donation to Kenya families.",
       "category": "Comparison Guides",
       "author": "AbleHearts Team",
       "date": "February 1, 2024",
@@ -1001,7 +1000,7 @@
       "id": 3,
       "slug": "cryptocurrency-donations-complete-guide-2024",
       "title": "Cryptocurrency Donations: Complete Guide for Charitable Giving (2024)",
-      "excerpt": "How to donate Bitcoin, Ethereum, and USDT to charity. Maximize tax benefits, avoid capital gains, and make a bigger impact.",
+      "excerpt": "How to donate Bitcoin, Ethereum, and USDT to charity. How crypto gifts work, how registered charities treat them for tax, and how to give safely.",
       "category": "Tax & Finance",
       "author": "AbleHearts Team",
       "date": "February 5, 2024",
@@ -1012,13 +1011,13 @@
         "tax strategy"
       ],
       "featured": false,
-      "readMinutes": 2
+      "readMinutes": 3
     },
     {
       "id": 2,
       "slug": "monthly-giving-vs-one-time-donations-which-helps-more",
       "title": "Monthly Giving vs One-Time Donations: Which Helps More?",
-      "excerpt": "Discover why recurring donations create lasting impact. Compare benefits, tax advantages, and see real examples.",
+      "excerpt": "Discover why recurring donations create lasting impact. Compare the benefits and see real examples.",
       "category": "Donation Guides",
       "author": "AbleHearts Team",
       "date": "February 15, 2024",
