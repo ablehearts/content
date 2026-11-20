@@ -80,7 +80,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 **Why Indian donors choose AbleHearts:**
 - Similar cultural values (family, community, karma/dharma)
 - Card or Apple Pay via secure Paystack checkout
-- Tax deduction under Section 80G (if registered in India)
+- Clear updates on exactly where your gift goes
 
 ---
 
@@ -98,9 +98,8 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Singaporean donors choose AbleHearts:**
-- Card or Apple Pay via secure Paystack checkout (Visa, Mastercard)
-- Transparent financial reporting
-- Community Chest approved (pending)
+- Card or Apple Pay accepted via Paystack (Visa, Mastercard)
+- How donations are used, shown on our [Transparency page](/transparency)
 
 ---
 
@@ -118,8 +117,8 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Japanese donors choose AbleHearts:**
+- Card or Apple Pay via secure Paystack checkout
 - Cultural alignment: 義理 (giri - sense of duty to help)
-- Give again each month on the donate page
 - Detailed impact reports (日本語 translation available)
 
 ---
@@ -138,7 +137,7 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 </div>
 
 **Why Chinese donors choose AbleHearts:**
-- Card or Apple Pay via secure Paystack checkout
+- Visa or Mastercard card via secure Paystack checkout
 - Cultural value: 慈善 (císhàn - charity/compassion)
 - Transparent blockchain tracking
 - 中文 documentation available
@@ -200,7 +199,13 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 2. Choose Bitcoin or USDT (TRC20)
 3. Send to provided wallet address
 4. Blockchain confirmation in minutes
-5. Tax receipt provided
+5. Transaction hash as your record of the gift
+
+---
+
+### **Not Available Yet:**
+
+Local wallets and payment apps (UPI, PayNow, PayPay, Alipay, WeChat Pay, GCash, PayMaya) aren't supported. Use a Visa or Mastercard card or Apple Pay in USD on Paystack, or send crypto.
 
 ---
 
@@ -212,10 +217,8 @@ Your ₹4,000 INR donation = 1 month of comprehensive care for Mary & Lydia
 1. Card or Apple Pay via Paystack (check forex markup with bank)
 2. Cryptocurrency (Bitcoin, USDT)
 
-**Tax Benefits:**
-- If AbleHearts gets 12A/80G registration: 50% tax deduction
-- Currently: No Indian tax deduction (pending registration)
-- Keep receipt for potential future claims
+**Tax:**
+- Not tax-deductible in India (AbleHearts has no 12A/80G registration)
 
 **Currency Tip:**
 - ₹1,000 INR = 1,560 KES = 1 week comprehensive care
@@ -235,10 +238,8 @@ Mary & Lydia's story resonates with Indian values:
 1. Card or Apple Pay via Paystack (Visa/Mastercard)
 2. Cryptocurrency (Bitcoin, USDT)
 
-**Tax Benefits:**
-- Tax deduction available if AbleHearts gets IPC status
-- Currently: Not tax-deductible in Singapore
-- Apply for Community Chest matching (pending)
+**Tax:**
+- Not tax-deductible in Singapore (AbleHearts is not an IPC)
 
 **Currency Tip:**
 - $50 SGD = 4,782 KES = 1 month medical care
@@ -257,10 +258,8 @@ Mary & Lydia's story resonates with Indian values:
 1. Card or Apple Pay via Paystack (Visa/Mastercard)
 2. Cryptocurrency (Bitcoin, USDT)
 
-**Tax Benefits:**
-- Potentially deductible if donation exceeds ¥2,000
-- Must be through approved NPO (pending for AbleHearts)
-- Keep receipt for tax filing
+**Tax:**
+- Not tax-deductible in Japan (AbleHearts is not an approved NPO)
 
 **Currency Tip:**
 - ¥5,000 = 5,200 KES = 2 weeks comprehensive care
@@ -276,13 +275,11 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇨🇳 For Chinese Donors:**
 
 **Recommended Payment Method:**
-1. Card or Apple Pay via Paystack (Visa/Mastercard)
+1. Visa or Mastercard card via Paystack
 2. Cryptocurrency (popular in China)
 
-**Tax Benefits:**
-- Chinese tax deduction available through approved foundations
-- Currently: Not registered for Chinese tax benefits
-- International donors: Keep receipt for records
+**Tax:**
+- Not tax-deductible in China (AbleHearts is not an approved foundation)
 
 **Currency Tip:**
 - ¥500 CNY = 8,900 KES = 3 weeks full care
@@ -298,11 +295,11 @@ Mary & Lydia's story resonates with Indian values:
 ### **🇵🇭 For Filipino Donors:**
 
 **Recommended Payment Method:**
-1. Card or Apple Pay via Paystack (Visa/Mastercard)
+1. Card or Apple Pay via Paystack
 2. Cryptocurrency (Bitcoin, USDT)
 
-**Tax Benefits:**
-- Philippine donors: Not currently tax-deductible
+**Tax:**
+- Not tax-deductible in the Philippines
 - OFW remittance friendly (use Wise, Sendwave)
 
 **Currency Tip:**
@@ -340,39 +337,23 @@ Mary (disabled mother) and Lydia (disabled daughter) live in rural Kenya with se
 - 🏚️ Leaking roof
 - 📚 Lydia couldn't attend school (fees = ₹15,000 INR/year)
 
-**After Asian Donors Helped:**
-- ♿ Indian donor: Sponsored wheelchair (₹40,000 INR)
-- 🏥 Singaporean donor: Monthly medical care ($50 SGD/month)
-- 📚 Japanese donor: School fees for Lydia (¥20,000 JPY/year)
+**An example: what Asian donors could make possible**
 
-**Your donation continues their transformation.**
+> **Please note:** This is an example of how a gift could reach Mary & Lydia. It hasn't happened yet. Mary & Lydia are real, and their needs are real, but no donor has yet funded the items below.
+
+- ♿ A donor in India could sponsor a wheelchair (about ₹40,000 INR)
+- 🏥 A donor in Singapore giving $50 SGD a month could cover regular medical care
+- 📚 A donor in Japan could help with education or training costs (about ¥20,000 JPY a year)
+
+**Your gift could be the first step.** [Donate securely](/donate) and ask us for an account of how your gift was used.
 
 ---
 
 ## 🧾 Tax Benefits (If Applicable)
 
-### **Countries with Potential Tax Deductions:**
+**Please note:** AbleHearts is not yet a registered charity and does not have tax-exempt status, so gifts to AbleHearts are not tax-deductible in India, Singapore, Japan, China, the Philippines or anywhere else.
 
-**🇮🇳 India:**
-- Section 80G: 50% deduction (if AbleHearts gets 12A registration)
-- Section 80GGA: 100% deduction for research/rural development
-- Keep receipt and Form 10BE
-
-**🇸🇬 Singapore:**
-- IPC status: 250% tax deduction (pending application)
-- Donate via Community Chest for matching
-
-**🇯🇵 Japan:**
-- ¥2,000+ donations may be deductible
-- NPO certification required (pending)
-
-**🇨🇳 China:**
-- Deductible up to 30% of annual income
-- Must be through approved foundation
-
-**🇵🇭 Philippines:**
-- Corporate donations: Deductible
-- Individual donations: Limited deductibility
+In general, Asian tax rules only give relief for gifts to locally approved organisations, for example Section 80G institutions in India, Institutions of a Public Character (IPCs) in Singapore, certified NPOs in Japan and approved foundations in China. If a tax deduction matters to you, check with a local tax professional and give to an approved organisation. We will update this guide if our status changes.
 
 ---
 
@@ -413,7 +394,6 @@ Before donating, verify:
 - [ ] Real beneficiary names (Mary & Lydia)
 - [ ] Monthly updates promised
 - [ ] Currency conversion clearly shown
-- [ ] Tax receipt provided (if applicable)
 - [ ] Contact information available
 - [ ] Social media active
 - [ ] Video proof available
@@ -475,4 +455,4 @@ You're part of a **global movement** uniting Asia and Africa through shared huma
 
 **🙏 Thank you for considering Mary & Lydia.** Your Asian generosity creates African opportunity. Together, we build a more compassionate world.
 
-**Donate now:** [/donate](/donate)
+**Donate securely:** [/donate](/donate)

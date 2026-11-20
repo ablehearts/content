@@ -44,7 +44,7 @@ featured: false
 17. [📊 Transparency: Every Dollar Documented](#-transparency-every-dollar-documented)
 18. [❓ FAQs: The Land Victory & Housing Need](#-faqs-the-land-victory--housing-need)
 19. [🙏 The Bottom Line: Greed Overlooked Disability. You Can Overlook Greed.](#-the-bottom-line-greed-overlooked-disability-you-can-overlook-greed)
-20. [🚀 Donate Now: Build Mary & Lydia's Accessible Home](#-donate-now-build-mary--lydias-accessible-home)
+20. [🚀 Donate Securely: Build Mary & Lydia's Accessible Home](#-donate-securely-build-mary--lydias-accessible-home)
 
 ---
 
@@ -796,11 +796,11 @@ You see:
 
 ---
 
-## 🚀 Donate Now: Build Mary & Lydia's Accessible Home
+## 🚀 Donate Securely: Build Mary & Lydia's Accessible Home
 
 **The land is theirs. Let's build on it.**
 
-**[Donate Now](https://able-hearts.org/donate)**
+**[Donate securely](https://able-hearts.org/donate)**
 
 **Every dollar = One step closer to dignity.**
 

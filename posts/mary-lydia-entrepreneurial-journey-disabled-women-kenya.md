@@ -487,7 +487,7 @@ This is their untold entrepreneurial story.
 
 ---
 
-## 💳 Donate Now
+## 💳 Donate Securely
 
 ### Multiple Payment Options:
 
@@ -531,4 +531,4 @@ Now, with tech, AI, and compassionate support, they can FINALLY break free.
 - 📖 [Mary & Lydia's Full Story](/blog/mary-lydia-story-20-years-resilience-disability-kenya)
 - 🛰️ [China Adaptive Furniture & Tech](/blog/china-adaptive-furniture-tech-solutions-disabled-kenya)
 - 🎓 [Tech Education Facility](/blog/ablehearts-tech-education-facility-empower-people-with-disabilities-digital-skills)
-- 💰 [Donate Now](/donate)
+- 💰 [Donate securely](/donate)

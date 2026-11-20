@@ -634,7 +634,7 @@ Or just **circumstantial obligation**? 📍💭
 **This is verified.** 📹✅
 **This is direct impact.** 💰➡️♿
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 
@@ -659,7 +659,7 @@ This entire blog post?
 
 **Use online for good.** 🌐💚
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 

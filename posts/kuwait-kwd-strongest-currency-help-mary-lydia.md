@@ -111,10 +111,12 @@ Kuwait has a rich tradition of charitable giving:
 - 🤲 **Sadaqah** - voluntary charity for continuous reward
 - 🕌 **Kuwait's philanthropic culture** - among the most generous in the world
 
-**Mary and Lydia's crisis is exactly what Zakat and Sadaqah were designed for:**
-- 👥 **Al-Fuqara (The Poor)** - they have zero income
-- 💔 **Al-Masakeen (The Needy)** - desperate medical emergencies
-- ♿ **Vulnerable groups** - disabled women facing persecution
+**Mary and Lydia's needs speak to the same spirit of care:**
+- 👥 **Poverty** - they have no income of their own
+- 💔 **Need** - untreated wounds and ongoing medical care
+- ♿ **Vulnerability** - disabled women facing threats to their home
+
+Donors of every faith, and of none, are welcome to give. If you are thinking of giving Zakat, please read the section on Zakat and Sadaqah below.
 
 ### 3. **Kuwait-Kenya Connection**
 
@@ -207,24 +209,32 @@ Kuwait has a rich tradition of charitable giving:
 
 ---
 
-## 🎁 Why Your KWD Donation is Zakat-Eligible
+## 🤲 Giving as a Muslim: Zakat and Sadaqah
 
-According to Islamic jurisprudence, **donations to Mary & Lydia qualify as Zakat** because they meet all criteria:
+Muslim donors are warmly welcome to support Mary & Lydia, and we want to be clear and honest about what we can and cannot say.
 
-### ✅ Zakat Recipients (Asnaf)
+### Zakat: please ask your imam or scholar
 
-1. **Al-Fuqara (The Poor)** - Mary & Lydia have zero income, live in extreme poverty
-2. **Al-Masakeen (The Needy)** - medical emergencies, untreated wounds, eviction threats
-3. **Fi Sabilillah (In the Path of Allah)** - supporting vulnerable, disabled women is jihad of compassion
+Zakat has its own conditions, and scholars differ on how they apply to a gift like this. **AbleHearts is not a Zakat organisation and has no Zakat certification**, so we cannot tell you that a gift counts as Zakat. Whether it does is for you to confirm with your imam or a scholar you trust.
 
-### ✅ AbleHearts is Zakat-Compliant
+To help with that conversation, we can give you:
 
-- 💯 **100% direct impact** - no admin fees, no overhead
-- 🔍 **Verified beneficiaries** - Mary & Lydia are real, documented, trackable
-- 📸 **Transparent reporting** - photo updates, receipts, progress tracking
-- 🚫 **No middlemen** - donations go directly to beneficiaries
+- 🧾 **A written receipt** for your gift
+- 📋 **An account of how your gift was used** for Mary & Lydia (for example food, medicine, transport or wound care)
+- 👥 **Plain facts about who receives it** - two disabled women in rural Kenya with no income of their own
 
-**Donate your Zakat with confidence. Your KWD will reach those who need it most.**
+### Sadaqah: always welcome
+
+Sadaqah, voluntary charity given at any time and in any amount, is always welcome. A small, regular Sadaqah of 3-10 KWD can make a real difference to Mary & Lydia's daily needs.
+
+### What AbleHearts can promise
+
+- 🔍 **Real beneficiaries** - Mary & Lydia are real people you can see in our videos
+- 📸 **Open reporting** - how donations are used is shown on our [Transparency page](/transparency)
+- 🧾 **Receipts on request** - ask us for a record of your gift and how it was spent
+- 🕊️ **Honesty about our status** - AbleHearts is not yet a registered charity
+
+**Give with a clear heart, and with the guidance of your own scholar.**
 
 ---
 
@@ -288,11 +298,12 @@ Mary and Lydia **cannot stay on their current land**—they will be poisoned lik
 
 ### Step 3: Receive Updates
 - 📧 **Monthly photo updates** showing impact of donations
-- 📊 **Transparent financial reports** (receipts, expense tracking)
+- 🧾 **An account of how your gift was used**, with receipts, on request
+- 📊 **Spending shown openly** on our [Transparency page](/transparency)
 - 💌 **Personal messages** from Mary & Lydia
 - 📸 **Progress photos** of medical treatment, housing, daily life
 
-**[Donate Now →](/donate)**
+**[Donate securely →](/donate)**
 
 ---
 
@@ -320,8 +331,8 @@ They're asking for survival:
 - 🏥 Medical records and bills
 
 ### ✅ 100% Transparency
-- 📊 Public financial reports
-- 🧾 Receipts for all expenses
+- 📊 How donations are used, shown on our [Transparency page](/transparency)
+- 🧾 Receipts and an account of your gift, on request
 - 📸 Photo proof of impact
 
 ### ✅ Zero Overhead
@@ -357,7 +368,7 @@ A small donation from you is a lifeline for them.
 Don't let the strength of your currency go unused.
 **Transform 3-10 KWD into hope, healing, and dignity.**
 
-**[Donate Now →](/donate)**
+**[Donate securely →](/donate)**
 
 Together, we can help Mary & Lydia not just survive, but thrive.
 

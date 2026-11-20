@@ -2,12 +2,12 @@
 id: 10
 slug: "middle-east-donors-guide-dubai-uae-qatar-saudi-arabia-support-kenya-charity"
 title: "Middle East Donors: How to Support Mary & Lydia from Dubai, UAE, Qatar & Saudi Arabia"
-excerpt: "Complete guide for Arabian Gulf donors. Zakat eligibility, Sadaqah Jariyah, tax benefits in UAE/Qatar/Saudi Arabia, payment methods, and cultural alignment with Islamic giving."
+excerpt: "Complete guide for Arabian Gulf donors. Zakat and Sadaqah Jariyah, how giving is treated in UAE/Qatar/Saudi Arabia, payment methods, and cultural alignment with Islamic giving."
 category: "Donation Guides"
 author: "AbleHearts Team"
 date: "January 2025"
 image: "https://able-hearts.org/images/blog/middle-east.jpeg"
-tags: ["middle east","dubai","uae","qatar","saudi arabia","zakat","sadaqah","islamic giving","charity","tax benefits","kenya","arab donors"]
+tags: ["middle east","dubai","uae","qatar","saudi arabia","zakat","sadaqah","islamic giving","charity","giving guide","kenya","arab donors"]
 featured: false
 ---
 
@@ -45,11 +45,11 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 - **UAE 🇦🇪:** Emirates NBD, ADCB, Mashreq, RAK Bank
 - **Saudi Arabia 🇸🇦:** Al Rajhi Bank, Riyad Bank, SNB
 - **Qatar 🇶🇦:** QNB, Doha Bank, Commercial Bank
-- **Bahrain, Kuwait, Oman:** All major cards
+- **Bahrain, Kuwait, Oman:** Visa and Mastercard
 
 **Currency:**
-- Card gifts are made in USD ✅
-- Your bank converts from AED, SAR, QAR, KWD, BHD or OMR
+- Card checkout runs in USD ✅
+- Your bank converts from AED, SAR or QAR
 
 **Payment via:**
 - Card or Apple Pay via Paystack (Visa, Mastercard)
@@ -66,10 +66,9 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 
 **Recommended for donations over AED 1,000 ($275)**
 
-### ₿ 3. **Cryptocurrency (Tax-Efficient)**
+### ₿ 3. **Cryptocurrency**
 
 **Why Crypto for Middle East Donors:**
-- **No VAT:** Digital assets exempt in UAE/Qatar
 - **Fast transfers:** 10 minutes vs 3-5 days for wire
 - **Low fees:** $2-5 vs $30 for bank wire
 - **Privacy:** No intermediary banks
@@ -85,55 +84,54 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 - **BitOasis (UAE)** - Sharia-compliant
 - **CoinMENA (Bahrain)**
 
+### 📱 4. **M-PESA (Kenya)**
+
+If you have an M-PESA account, choose KES on the [donate page](/donate) and pay with the M-PESA prompt on your phone.
+
 ---
 
-## 🎁 Tax Benefits & Zakat Eligibility
+## 🎁 Tax & Zakat: What to Know
+
+**Please note:** AbleHearts is not yet a registered charity and does not have tax-exempt status, so gifts to AbleHearts are not tax-deductible in the UAE, Saudi Arabia, Qatar or anywhere else. The notes below describe how giving generally works in the region.
 
 ### United Arab Emirates
 
-**Corporate Tax Deduction (New 9% Tax):**
-- Effective June 2023: 9% corporate tax on profits above AED 375,000
-- **Charitable donations deductible** against taxable income
-- AbleHearts qualifies as eligible charity
-- Example: Donate AED 10,000 → Save AED 900 in tax
+**Corporate Tax (9% since June 2023):**
+- 9% corporate tax on profits above AED 375,000
+- Deductions apply only to gifts to entities approved by the UAE authorities
+- AbleHearts is not an approved entity, so gifts to AbleHearts are not deductible
 
 **Zakat Eligibility:**
-- Mary & Lydia qualify as **Fuqara** (poor) and **Masakin** (needy)
-- Disability assistance is **Zakat-eligible** (Hanafi, Shafi'i, Maliki schools)
+- Mary & Lydia live in poverty with disabilities, the situation of **Fuqara** (poor) and **Masakin** (needy)
+- Many scholars count disability assistance as a valid use of Zakat; please confirm with your own scholar
 - 100% of donation goes to beneficiaries (no admin overhead)
-
-**VAT Exemption:**
-- Charitable donations are **VAT-exempt** in UAE
-- No 5% VAT charged on your donation
 
 ### Saudi Arabia
 
 **Zakat Calculation:**
 - 2.5% of savings held for 1 lunar year
-- Mary & Lydia eligible recipients under Quran 9:60
-- Wheelchairs = **Sadaqah Jariyah** (ongoing reward)
+- Whether a gift to Mary & Lydia counts as Zakat is for your imam or scholar to confirm; we can give you a receipt and an account of how it was used
+- Sadaqah is always welcome, and a lasting gift such as a wheelchair is often given as **Sadaqah Jariyah**
 
 **Corporate Tax:**
 - 20% Zakat for Saudi/GCC companies
-- Charitable donations reduce Zakat base
-- Non-GCC companies: income tax deductible
+- Gifts to approved Saudi charities may reduce the Zakat base; gifts to AbleHearts do not
 
 ### Qatar
 
 **Zakat Policy:**
 - Government-supported Zakat Fund
-- Private donations to eligible charities encouraged
-- AbleHearts accepts Zakat for disability support
+- Private giving encouraged
+- AbleHearts passes gifts on to Mary & Lydia; please confirm with your scholar whether this suits your Zakat
 
 **Corporate Giving:**
 - CSR programs incentivized by government
-- Tax-neutral for Qatari companies
 - Enhances ESG (Environmental, Social, Governance) scores
 
 ### Bahrain, Kuwait, Oman
 
-**Tax-Neutral Jurisdictions:**
-- No corporate income tax (Bahrain, Kuwait, Oman)
+**Tax:**
+- Rules differ by country; gifts to AbleHearts carry no tax relief
 - Zakat voluntary but spiritually rewarding
 - Full donation goes to Mary & Lydia
 
@@ -237,7 +235,8 @@ Brothers and sisters in the Middle East, your compassion transforms lives across
 - WhatsApp group for major donors: [https://chat.whatsapp.com/CyCFuj6ZC4C2BQXoDC4ofO?mode=wwc](https://chat.whatsapp.com/CyCFuj6ZC4C2BQXoDC4ofO?mode=wwc)
 - WhatsApp channel Updates: [https://whatsapp.com/channel/0029VbB81btJENy6GLqfBW0q](https://whatsapp.com/channel/0029VbB81btJENy6GLqfBW0q)
 - Video calls available upon request
-- Annual financial reports
+- How donations are used, shown on our [Transparency page](/transparency)
+- A receipt and an account of how your gift was used, on request
 
 **4. Respect for Dignity (Karamah)**
 - Mary & Lydia treated with utmost respect
@@ -298,9 +297,9 @@ Mary and Lydia may live in Kenya, but they are part of our global family. Your g
 
 ## ✅ Next Steps for Middle East Donors
 
-1. **Choose Your Amount:** AED 100 - 10,000+
+1. **Choose Your Amount:** AED 100 - 10,000+ (card checkout runs in USD)
 2. **Select Payment Method:** Card, bank transfer, or crypto
-3. **Receive Tax Receipt:** Emailed within 24 hours (if applicable)
+3. **Ask for a Record of Your Gift:** For your own files (not a tax receipt)
 4. **Get Monthly Updates:** Photos, videos, impact reports
 5. **Join WhatsApp Community:** Connect with other Gulf donors (optional)
 
@@ -309,12 +308,11 @@ Mary and Lydia may live in Kenya, but they are part of our global family. Your g
 ## 📚 Additional Resources
 
 **For Middle East Donors:**
-- [UAE Corporate Tax Law](https://tax.gov.ae/)
 - [Zakat Eligibility Guide (Islamic Scholars)](https://www.islamweb.net/en/)
 - [Kenya-UAE Relations](https://www.mofaic.gov.ae/)
 
 **For Everyone:**
-- [Donate Now](/donate) - Support Mary & Lydia
+- [Donate securely](/donate) - Support Mary & Lydia
 - [FAQ](/faq) - Common questions answered
 - [Contact Us](/contact) - We're here to help
 

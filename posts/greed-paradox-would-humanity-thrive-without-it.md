@@ -857,7 +857,7 @@ They're also about:
 4. **Donate to grassroots charities** 💝
    - Like **AbleHearts** (wink wink) 😉♿
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 
@@ -882,7 +882,7 @@ This entire blog post?
 
 **Redirect your greed toward good.** 💰➡️💚
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 

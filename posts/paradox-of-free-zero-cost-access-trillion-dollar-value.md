@@ -638,7 +638,7 @@ This is **the philosophy of free**: **Zero-cost access creates infinite value.**
 
 **Then your free donation can build a better future for Mary & Lydia.** 💝♿
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 **Give freely. Change lives infinitely.** 🌍✨
 

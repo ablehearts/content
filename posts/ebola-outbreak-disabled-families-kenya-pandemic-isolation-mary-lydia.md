@@ -175,7 +175,7 @@ Every donation goes 100% to Mary and Lydia — no overhead, no administrative fe
 - 📱 M-PESA: Direct to Kenya
 - ₿ Crypto: Bitcoin, USDT, BNB accepted
 
-[**Donate Now — 100% Reaches Mary & Lydia**](/donate)
+[**Donate securely — 100% Reaches Mary & Lydia**](/donate)
 
 ---
 

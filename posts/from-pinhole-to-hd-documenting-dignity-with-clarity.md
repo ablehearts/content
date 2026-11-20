@@ -517,7 +517,7 @@ AI can help us **automatically**:
 **Do you work for a camera/phone company?**
 - Contact us: [email protected]
 - We'll provide a detailed proposal
-- Tax-deductible donation receipts available
+- A record of your donation on request (not a tax receipt)
 
 **Do you have unused equipment?**
 - Recent smartphone (2020+)
@@ -610,7 +610,7 @@ But **YOU deserve to see it clearly.** 👀✨
 
 Every dollar goes toward equipment that will serve Mary & Lydia's documentation for YEARS. 📸⏰
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 

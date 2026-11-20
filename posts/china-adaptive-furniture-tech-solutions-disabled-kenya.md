@@ -179,8 +179,8 @@ Instead of a painful rope, Lydia needs a **Chinese-made electric bed assist**:
 - 🛏️ Provide **electric bed assist system** (replace the rope!)
 - 📦 Ship directly to Kenya (many Chinese companies have Africa logistics networks)
 
-**Tax Benefit:**
-- 🇨🇳 **Chinese Corporate Social Responsibility (CSR) credits**
+**What You Gain:**
+- 🇨🇳 **A real Corporate Social Responsibility (CSR) story**
 - 📰 **Positive PR:** "Chinese Innovation Saving Lives in Africa"
 - 🌐 **Global goodwill** in African markets
 

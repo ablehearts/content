@@ -595,7 +595,7 @@ This entire blog post?
 
 **Change their 0-9 💵. Change their lives ✨.**
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 

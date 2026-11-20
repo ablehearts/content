@@ -512,7 +512,7 @@ Mary and Lydia deserve access to **both**. 🙏 So do millions of others facing 
 - 🍽️ Nutritious food (produced by farmers, distributed by entrepreneurs) 🌾
 - 📱 Communication tools (invented by scientists, made accessible by technicians) 🔧
 
-[**Donate Now**](/donate) 💝 and support a world where education and experience work together—not against each other. 🤝✨
+[**Donate securely**](/donate) 💝 and support a world where education and experience work together—not against each other. 🤝✨
 
 ---
 

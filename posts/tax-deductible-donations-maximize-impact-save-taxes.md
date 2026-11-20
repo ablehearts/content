@@ -1,23 +1,23 @@
 ---
 id: 26
 slug: "tax-deductible-donations-maximize-impact-save-taxes"
-title: "Tax-Deductible Donations Explained: Maximize Your Impact While Saving on Taxes"
-excerpt: "Learn how tax-deductible donations work, how to maximize your deductions for charity, and save money while supporting Mary & Lydia. Complete guide to IRS rules, donation limits, and tax-saving strategies for 2025."
+title: "Tax-Deductible Donations Explained: How Charitable Deductions Work"
+excerpt: "A plain guide to how US charitable deductions work for gifts to registered charities: IRS rules, limits and records. AbleHearts is not yet a registered charity, so gifts to AbleHearts are not currently tax-deductible."
 category: "Donation Guides"
 author: "AbleHearts Team"
 date: "July 2024"
 image: "https://able-hearts.org/images/blog/tax-deductible-donations.jpeg"
-tags: ["Tax Deductible","IRS","Tax Savings","Charity Benefits","Donations"]
+tags: ["Tax Deductible","IRS","Tax Education","Charitable Giving","Donations"]
 featured: false
 ---
 
 ## 💰 Understanding Tax-Deductible Donations
 
-When you donate to qualified charities like AbleHearts, you're not just changing lives—you're also eligible for significant tax savings. But many donors don't fully understand how tax deductions work or how to maximize their benefits.
+When you give to a qualified (registered, tax-exempt) charity, the tax system in many countries lets you deduct some or all of that gift. Many donors don't fully understand how these deductions work.
 
-**The Reality:** Many donors leave money on the table by not properly claiming their charitable deductions.
+**Where AbleHearts stands:** AbleHearts is not yet a registered charity and does not have tax-exempt status, so gifts to AbleHearts are **not** tax-deductible today. Everything below describes how deductions work for gifts to organizations that *do* qualify, so you can plan your giving with clear eyes.
 
-This comprehensive guide explains exactly how tax-deductible donations work, how much you can save, and strategies to maximize both your impact and your tax benefits.
+This guide explains how US tax-deductible donations work, what the limits are, and what records the IRS expects.
 
 ---
 
@@ -60,7 +60,7 @@ For your donation to be tax-deductible, it must meet these IRS criteria:
 The IRS limits how much you can deduct based on your **Adjusted Gross Income (AGI)**:
 
 #### Cash Donations:
-- **Up to 60% of AGI** to public charities like AbleHearts
+- **Up to 60% of AGI** to qualified public charities
 - **Up to 30% of AGI** to private foundations
 
 #### Non-Cash Donations:
@@ -72,19 +72,19 @@ The IRS limits how much you can deduct based on your **Adjusted Gross Income (AG
 **Example 1: Single Filer**
 - AGI: $80,000
 - Maximum cash deduction: $48,000 (60% of $80,000)
-- You donate: $5,000 to AbleHearts
+- You donate: $5,000 to a qualified US charity
 - ✅ Fully deductible
 
 **Example 2: Married Filing Jointly**
 - AGI: $150,000
 - Maximum cash deduction: $90,000 (60% of $150,000)
-- You donate: $10,000 to AbleHearts
+- You donate: $10,000 to a qualified US charity
 - ✅ Fully deductible
 
 **Example 3: High Earner**
 - AGI: $500,000
 - Maximum cash deduction: $300,000 (60% of $500,000)
-- You donate: $50,000 to AbleHearts
+- You donate: $50,000 to a qualified US charity
 - ✅ Fully deductible
 
 ---
@@ -120,17 +120,14 @@ The IRS limits how much you can deduct based on your **Adjusted Gross Income (AG
 **Scenario 1: $500 Donation, 22% Tax Bracket**
 - Tax savings: $500 × 0.22 = **$110**
 - Net cost after tax savings: $500 - $110 = **$390**
-- You helped Mary & Lydia for just $390!
 
 **Scenario 2: $2,000 Donation, 32% Tax Bracket**
 - Tax savings: $2,000 × 0.32 = **$640**
 - Net cost: $2,000 - $640 = **$1,360**
-- Your $2,000 donation only costs you $1,360!
 
 **Scenario 3: $10,000 Donation, 37% Tax Bracket**
 - Tax savings: $10,000 × 0.37 = **$3,700**
 - Net cost: $10,000 - $3,700 = **$6,300**
-- You saved $3,700 in taxes while helping disabled women!
 
 ---
 
@@ -235,7 +232,7 @@ You bought stock for $1,000, now worth $5,000.
 **How It Works:**
 1. Donate money/stock to DAF (get immediate tax deduction)
 2. Funds grow tax-free in the account
-3. Recommend grants to charities like AbleHearts over time
+3. Recommend grants to qualified charities over time
 
 **Benefits:**
 - Take deduction this year, give later
@@ -254,7 +251,7 @@ You bought stock for $1,000, now worth $5,000.
 
 **Example:**
 - Age 72, RMD required: $15,000
-- Transfer $15,000 from IRA to AbleHearts as QCD
+- Transfer $15,000 from IRA to a qualified charity as a QCD
 - You satisfy RMD requirement
 - $15,000 never appears as income
 - You save: $15,000 × your tax rate
@@ -309,8 +306,8 @@ You bought stock for $1,000, now worth $5,000.
 ### Q: I donated $500 but charity only sent a $400 receipt. What do I do?
 **A:** Only deduct the $400 with proper documentation. Contact charity to correct the receipt if it's an error.
 
-### Q: Can I deduct donations to Mary & Lydia directly?
-**A:** No. Donations to individuals aren't tax-deductible. You must donate through a qualified 501(c)(3) organization like AbleHearts.
+### Q: Can I deduct donations to Mary & Lydia, or to AbleHearts?
+**A:** No. Donations to individuals aren't tax-deductible, and AbleHearts is not yet a registered charity or a qualified 501(c)(3) organization, so gifts to AbleHearts aren't tax-deductible either. We will update this post once our registration is complete.
 
 ### Q: What if my donation is over the AGI limit?
 **A:** You can carry forward the excess for up to 5 years. For example, if your AGI is $100,000 and you donate $70,000, you can deduct $60,000 this year and $10,000 next year.
@@ -326,128 +323,28 @@ You bought stock for $1,000, now worth $5,000.
 
 ---
 
-## 💡 AbleHearts Tax Benefits
+## 💡 Where AbleHearts Stands
 
-### Why AbleHearts Donations Are Tax-Advantaged
+### Honest status
 
-✅ **501(c)(3) Qualified Organization**
-- Registered with IRS
-- Eligible for maximum deduction limits
-- Donations count toward itemized deductions
+- **Not yet a registered charity.** AbleHearts is a small grassroots effort for Mary and Lydia, and the registration paperwork is still in progress.
+- **No tax-exempt status.** We are not a 501(c)(3), a CRA-registered charity or a Kenyan exempt organization.
+- **Not tax-deductible.** Gifts to AbleHearts cannot be claimed as a charitable deduction today, in the US or anywhere else.
+- **A record, not a tax receipt.** We are glad to send a record of your gift for your own files, but it is not an official tax receipt.
 
-✅ **Instant Tax Receipts**
-- Emailed immediately after donation
-- IRS-compliant documentation
-- Includes all required information
+### What you can count on
 
-✅ **Multiple Donation Methods**
-- Cash donations (card or Apple Pay via Paystack, M-PESA)
-- Credit cards (earn rewards + deduction)
-- Cryptocurrency (avoid capital gains)
-- Bank transfers (for large donations)
-
-✅ **100% Goes to Beneficiaries**
-- No administrative overhead deducted
-- No CEO salaries
-- Every dollar supports Mary & Lydia
-
-✅ **Transparent Impact Reporting**
-- See exactly how your donation was used
-- Photos and videos of impact
-- Annual summary for tax filing
+- **Several ways to give:** card or Apple Pay via Paystack, M-PESA, bank transfer and cryptocurrency
+- **Transparency:** receipts, photos and updates on the Transparency page and the blog, so you can see what your gift did
+- **Direct contact:** you can talk to the family on WhatsApp or through the Contact page
 
 ---
 
-## 📊 Real Donor Tax Savings Examples
+## 🚀 Before You Give
 
-### Example 1: Sarah (Teacher, 22% Tax Bracket)
-- **AGI:** $60,000
-- **Standard Deduction:** $14,600
-- **Other Itemized:** $8,000 (mortgage interest, state taxes)
-- **Donated to AbleHearts:** $7,000
+If a tax deduction matters to you this year, use the steps above with a registered charity and keep good records.
 
-**Without Bunching:**
-- Takes standard deduction: $14,600
-- Tax savings from standard deduction
-
-**With AbleHearts Donation:**
-- Itemizes: $8,000 + $7,000 = $15,000
-- Beats standard deduction by $400
-- Extra tax savings: $400 × 22% = **$88**
-
-**Plus:**
-- Helped Mary & Lydia with $7,000
-- True cost after tax savings: $7,000 - ($7,000 × 0.22) = **$5,460**
-
-### Example 2: John & Maria (Engineers, 32% Tax Bracket)
-- **AGI:** $220,000
-- **Donated to AbleHearts:** $10,000
-- **Also donated stock:** $15,000 (purchased for $5,000)
-
-**Cash Donation Savings:**
-- $10,000 × 32% = **$3,200 saved**
-
-**Stock Donation Savings:**
-- Avoided capital gains: $10,000 × 15% = **$1,500 saved**
-- Deduction: $15,000 × 32% = **$4,800 saved**
-- Total from stock: **$6,300 saved**
-
-**Total Tax Savings: $9,500**
-**True Cost of $25,000 Donation: Only $15,500**
-
-### Example 3: Robert (Retiree, 24% Tax Bracket, Age 73)
-- **AGI:** $120,000
-- **RMD Required:** $20,000
-- **Used QCD:** $20,000 to AbleHearts
-
-**Tax Savings:**
-- $20,000 never counted as income
-- Saved: $20,000 × 24% = **$4,800**
-- Plus avoided Medicare premium surcharges
-- **Total savings: ~$5,500**
-
----
-
-## 🚀 Ready to Maximize Your Tax Savings?
-
-Now you understand how tax-deductible donations work and how to maximize your benefits!
-
-### Action Steps:
-
-1. **Calculate Your Potential Savings**
-   - Find your tax bracket
-   - Multiply donation amount × tax rate
-   - See how much you'd save!
-
-2. **Gather Your Documentation**
-   - Have receipts ready
-   - Track all charitable giving
-
-3. **Consider Tax-Smart Strategies**
-   - Bunch donations if near standard deduction
-   - Donate stock instead of cash
-   - Use QCD if over 70½
-
-4. **Donate to AbleHearts**
-   - 100% goes to Mary & Lydia
-   - Instant tax receipt
-   - Transparent impact reporting
-   - Multiple payment methods
-
-### Your Impact + Tax Savings:
-
-<div class="table-wrapper-scroll">
-
-| **Donation** | **Tax Bracket** | **Tax Savings** | **True Cost** | **Impact for Mary & Lydia** |
-|--------------|-----------------|-----------------|---------------|------------------------------|
-| $100 | 22% | $22 | $78 | 1 month medical supplies |
-| $500 | 24% | $120 | $380 | Wheelchair repair |
-| $1,000 | 32% | $320 | $680 | 2 months comprehensive support |
-| $5,000 | 35% | $1,750 | $3,250 | New wheelchair + 6 months care |
-
-</div>
-
-**Remember:** You're not just saving on taxes—you're changing lives!
+If you would like to help Mary & Lydia directly, knowing the gift is not tax-deductible, you can [donate securely](/donate). Every gift goes to their needs.
 
 ---
 

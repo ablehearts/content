@@ -593,7 +593,7 @@ featured: false
 
 ---
 
-## 💳 Donate Now
+## 💳 Donate Securely
 
 **Card or Apple Pay (Paystack):**
 - 💳 [Donate →](/donate)
@@ -649,7 +649,7 @@ featured: false
 - 💼 [25-Year Entrepreneurial Journey](/blog/mary-lydia-entrepreneurial-journey-disabled-women-kenya)
 - 🛰️ [China Adaptive Furniture & Tech](/blog/china-adaptive-furniture-tech-solutions-disabled-kenya)
 - 🎓 [Tech Education Facility](/blog/ablehearts-tech-education-facility-empower-people-with-disabilities-digital-skills)
-- 💰 [Donate Now](/donate)
+- 💰 [Donate securely](/donate)
 
 **📧 Contact:** [donations@able-hearts.org](donations@able-hearts.org)
 **📱 Follow:** [X(Twitter)](https://x.com/able_hearts_ke) | [Tiktok](https://tiktok.com/@able_hearts)

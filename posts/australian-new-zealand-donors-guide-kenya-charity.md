@@ -2,12 +2,12 @@
 id: 9
 slug: "australian-new-zealand-donors-guide-kenya-charity"
 title: "Australian & New Zealand Donors: Supporting Disabled Women in Kenya"
-excerpt: "Aussie & Kiwi donors guide to helping Mary & Lydia in Kenya. AUD/NZD conversion, tax deductions, payment methods & how your dollar goes 5x further Down Under to Africa."
+excerpt: "Aussie & Kiwi donors guide to helping Mary & Lydia in Kenya. AUD/NZD conversion, payment methods, how tax deductions work & how your dollar goes 5x further Down Under to Africa."
 category: "Donation Guides"
 author: "AbleHearts Team"
 date: "January 23, 2025"
 image: "https://able-hearts.org/images/blog/new-zealand-donors.jpg"
-tags: ["Australia","New Zealand","Oceania","AUD","NZD","tax-deductible"]
+tags: ["Australia","New Zealand","Oceania","AUD","NZD","tax rules"]
 featured: false
 ---
 
@@ -15,12 +15,12 @@ featured: false
 
 G'day! From Sydney to Auckland, Australians and New Zealanders have always punched above their weight when it comes to international aid. Now you can make a massive impact for Mary and Lydia, two disabled women in Kenya, with your strong AUD/NZD dollar.
 
-This guide shows Aussie and Kiwi donors how to safely donate, maximize tax deductions, and understand exactly how your hard-earned money transforms lives in East Africa.
+This guide shows Aussie and Kiwi donors how to safely donate, how tax deductions work for registered charities, and understand exactly how your hard-earned money transforms lives in East Africa.
 
 ## 📋 Table of Contents
 1. [Why Your AUD/NZD Goes So Far in Kenya](#why-your-aud-nzd-goes-so-far-in-kenya)
 2. [Payment Methods for Aussie & Kiwi Donors](#payment-methods-for-aussie-kiwi-donors)
-3. [Tax Deductions for Aussie & Kiwi Donors](#tax-deductions-for-aussie-kiwi-donors)
+3. [Tax Rules for Aussie & Kiwi Donors](#tax-rules-for-aussie-kiwi-donors)
 4. [Mary & Lydia's Story](#mary-lydia-s-story)
 5. [How to Verify Legitimacy](#how-to-verify-legitimacy)
 6. [FAQs from Australian & NZ Donors](#faqs-from-australian-nz-donors)
@@ -71,8 +71,8 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 
 **Why Aussie donors choose AbleHearts:**
 - Card or Apple Pay via secure Paystack checkout
-- Tax-deductible (DGR status pending)
-- ACNC registered charity (application in progress)
+- Bank transfer and crypto available
+- 100% transparency (every dollar tracked)
 
 ---
 
@@ -93,7 +93,6 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 **Why Kiwi donors choose AbleHearts:**
 - Card or Apple Pay via secure Paystack checkout
 - Bank transfer available
-- Tax credit available (Charities Services registered - pending)
 - 100% transparency (every dollar tracked)
 
 ---
@@ -135,7 +134,7 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 2. Request bank transfer details (Kenya Equity Bank)
 3. Transfer via your bank (SWIFT/international wire)
 4. Provide transfer receipt
-5. Receive tax receipt
+5. Receive a confirmation of your gift (not a tax receipt)
 
 **Fees:**
 - Australia: $20-$30 AUD wire fee + bank forex markup
@@ -152,84 +151,37 @@ Aussie and Kiwi dollars have **extraordinary purchasing power** in Kenya:
 1. Select "Cryptocurrency" on donate page
 2. Send Bitcoin or USDT (TRC20) to wallet address
 3. Blockchain confirmation in minutes
-4. Tax receipt provided (fair market value in AUD/NZD)
-
-**Tax Benefits:**
-- Australia: Capital gains tax exemption on donated crypto (held >12 months)
-- New Zealand: No capital gains tax (crypto donation = cost basis deduction)
+4. Share the transaction hash with us if you would like a confirmation of your gift
 
 **Fees:** 1-2% (much lower than bank wire or credit card)
 
 ---
 
-## 🧾 Tax Deductions for Aussie & Kiwi Donors
+### **Not Available Yet:**
 
-### **🇦🇺 Australia: Tax-Deductible Donations**
-
-#### **Current Status:**
-- AbleHearts is **applying for DGR (Deductible Gift Recipient) status** with ACNC
-- Once approved: **100% tax deductible**
-- Keep your receipt now - claim once DGR approved (retroactive claims possible)
-
-#### **How Tax Deductions Work (Once DGR Approved):**
-
-<div class="table-wrapper-scroll">
-
-**Donation Amount** | **Your Tax Bracket** | **Tax Savings** | **Net Cost**
--------------------|----------------------|-----------------|-------------
-$100 AUD | 32.5% | $32.50 | $67.50
-$500 AUD | 37% | $185 | $315
-$1,000 AUD | 45% | $450 | $550
-$5,000 AUD | 45% | $2,250 | $2,750
-
-</div>
-
-**Example:**
-- You donate: $1,000 AUD
-- Tax bracket: 37%
-- Tax return: $370 AUD
-- Actual cost to you: $630 AUD
-- Impact in Kenya: $5,000 AUD worth of care!
-
-#### **How to Claim:**
-1. Receive tax receipt from AbleHearts
-2. Lodge tax return (July 1 - Oct 31)
-3. Include donation in "Gifts or Donations" section
-4. ATO refunds your deduction
-5. Track via myTax or accountant
+POLi, BPAY, Afterpay and AUD/NZD checkout aren't supported. Card checkout runs in USD, and your bank converts from AUD or NZD.
 
 ---
 
-### **🇳🇿 New Zealand: Tax Credits**
+## 🧾 Tax Rules for Aussie & Kiwi Donors
 
-#### **Current Status:**
-- AbleHearts is **applying for Charities Services registration**
-- Once approved: **33.33% tax credit**
+### **Where AbleHearts Stands Today**
 
-#### **How Tax Credits Work (Once Registered):**
+AbleHearts is **not yet a registered charity**. It is not registered with the ACNC, does not have DGR (Deductible Gift Recipient) status in Australia, and is not an approved donee organisation in New Zealand. That means **gifts to AbleHearts are not currently tax-deductible in Australia and do not qualify for a donation tax credit in New Zealand.** We will update this guide once our registration is complete.
 
-<div class="table-wrapper-scroll">
+### **🇦🇺 Australia: How Deductions Work in General**
 
-**Donation Amount** | **Tax Credit (33.33%)** | **Net Cost**
--------------------|-------------------------|-------------
-$100 NZD | $33.33 | $66.67
-$500 NZD | $166.65 | $333.35
-$1,000 NZD | $333.30 | $666.70
-$5,000 NZD | $1,666.50 | $3,333.50
+- Only gifts to organisations with **DGR status** can be claimed as a deduction
+- You can check any organisation's DGR status on the ABN Lookup website (abr.business.gov.au)
+- Claims go in the "Gifts or Donations" section of your tax return, with a receipt from the DGR
 
-</div>
+### **🇳🇿 New Zealand: How Tax Credits Work in General**
 
-**Example:**
-- You donate: $500 NZD
-- Tax credit: $166.65 NZD (33.33%)
-- Actual cost: $333.35 NZD
-- Impact in Kenya: $2,250 NZD worth of care!
+- Only gifts to **approved donee organisations** qualify for the donation tax credit
+- The list of approved donee organisations is published by Inland Revenue (IRD)
+- Claims are made through myIR with receipts from the approved organisation
 
-#### **How to Claim:**
-1. Receive donation receipt from AbleHearts
-2. Include in IR3 tax return (March 31 deadline)
-3. IRD credits your tax account
-4. Claim via myIR or accountant
+If tax relief matters to your giving, please check an organisation's status before you give and ask a tax professional about your own situation.
 
 ---
 
@@ -251,21 +203,32 @@ $5,000 NZD | $1,666.50 | $3,333.50
 
 Mary and Lydia are disabled women in rural Kenya living on less than $3 USD/day ($4.50 AUD, $5 NZD)—similar to poverty levels that Australians and New Zealanders abolished decades ago.
 
-**Before International Donors:**
-- 😢 **No wheelchair:** Mary crawled 6+ hours to reach clinic
-- 🏥 **Untreated wounds:** Couldn't afford $15 AUD equivalent for antibiotics
-- 🏚️ **Leaking roof:** No shelter during rainy season
-- 📚 **No education:** Lydia dropped out (fees = $200 AUD/year)
-- 🍽️ **1 meal/day:** Malnutrition common
+**Where they are today:**
+- 😢 **No wheelchair:** reaching a clinic is a long, painful journey
+- 🏥 **Untreated wounds:** they need regular care and medicine
+- 🏚️ **Leaking roof:** little shelter in the rainy season
+- 🍽️ **Often 1 meal/day:** food is a daily worry
 
-**After Aussie & Kiwi Donors Helped:**
-- ♿ **2 wheelchairs donated** ($500 AUD from Perth donor, $300 NZD from Wellington donor)
-- 🏥 **Monthly medical care** ($50 AUD/month from Sydney donor)
-- 🏠 **Roof repaired** ($400 AUD from Melbourne donor)
-- 📚 **Lydia back in school** ($200 NZD/year from Auckland donor)
-- 🍽️ **3 nutritious meals daily** ($100 AUD/month from Brisbane donor)
+### **How It Could Work: An Example from Perth to Kenya**
 
-**Your donation continues their transformation.**
+> **Please note:** This is an example of how a gift could reach Mary & Lydia. It hasn't happened yet. Mary & Lydia are real, and their needs are real, but no donor has yet funded the items below.
+
+Imagine a donor in Perth gives **$500 AUD**. Here is how that gift could reach Mary & Lydia:
+
+1. 💳 **The donor gives** on our [donate page](/donate) by card or Apple Pay (Paystack checkout)
+2. 💱 **The money arrives in Kenya** and is used locally, where prices are far lower than in Australia
+3. ♿ **A wheelchair could be bought in Kenya** for Mary, with no shipping costs
+4. 📸 **The donor could get an account** of how the gift was used, with receipts and photos, on request
+
+**Other gifts could add up the same way:**
+- 🏥 **$50 AUD a month** from a donor in Sydney could cover regular medical care
+- 🏠 **$400 AUD** from a donor in Melbourne could fix the leaking roof
+- ♿ **$300 NZD** from a donor in Wellington could fund a second mobility aid
+- 🍽️ **$100 AUD a month** from a donor in Brisbane could mean three meals a day
+
+None of this has happened yet. It is what a gift from anywhere in Australia or New Zealand could do.
+
+**Want to make it real?** [Donate securely](/donate) and ask us how your gift was used.
 
 ---
 
@@ -273,10 +236,9 @@ Mary and Lydia are disabled women in rural Kenya living on less than $3 USD/day 
 
 When you donate, you can expect:
 - 📧 Immediate email receipt for your records
-- 📸 Monthly photo updates showing exactly how funds were used
+- 📸 Photo updates showing how funds were used, and how donations are used on our [Transparency page](/transparency)
 - 💌 Direct connection with Mary and Lydia via WhatsApp
-- 🧾 Tax receipts for DGR/donee status claims (once approved)
-- 📊 Transparent M-PESA transfer records
+- 🧾 Receipts and an account of your gift, on request
 - 🎥 Optional video call opportunities with beneficiaries
 
 ---
@@ -287,14 +249,9 @@ When you donate, you can expect:
 
 #### **1. Check Official Registrations**
 
-**🇦🇺 Australia:**
-- ✅ ACNC registration: [In progress - check acnc.gov.au]
-- ✅ DGR status: [Pending - will appear on ABR once approved]
-- ✅ ABN: [Application submitted]
+For any charity you are considering, look it up on the ACNC Charity Register (acnc.gov.au) in Australia or the Charities Register (charities.govt.nz) in New Zealand.
 
-**🇳🇿 New Zealand:**
-- ✅ Charities Services: [Application ref: pending]
-- ✅ IRD donee status: [Pending approval]
+**In the open:** AbleHearts will not appear on these registers. It is not yet a registered charity anywhere, and we would rather tell you that plainly than claim a status we cannot show.
 
 **Interim Verification:**
 - ✅ Google Search Console: Verified
@@ -313,8 +270,8 @@ When you donate, you can expect:
 ---
 
 #### **3. Test Transparency**
-- ✅ Request financial report (sent within 24 hours)
-- ✅ Ask for M-PESA transaction receipts (provided)
+- ✅ Ask for receipts and an account of how your gift was spent
+- ✅ Check how donations are used on our [Transparency page](/transparency)
 - ✅ Request video call with Mary & Lydia ([WhatsApp available](https://wa.me/254107145882))
 - ✅ Join donor [WhatsApp group](https://chat.whatsapp.com/CyCFuj6ZC4C2BQXoDC4ofO?mode=wwc) for monthly updates
 
@@ -330,8 +287,8 @@ When you donate, you can expect:
 
 ## ❓ FAQs from Australian & NZ Donors
 
-### **Q: Is my donation tax-deductible in Australia?**
-**A:** AbleHearts is applying for DGR (Deductible Gift Recipient) status with ACNC. Once approved (expected Q1 2025), donations will be 100% tax-deductible. Keep your receipts now to claim once DGR is granted.
+### **Q: Is my donation tax-deductible in Australia or New Zealand?**
+**A:** No, not at the moment. AbleHearts is not yet a registered charity and does not have DGR or donee status, so gifts are not currently tax-deductible and do not qualify for a tax credit. We will update this answer once registration is complete.
 
 ### **Q: Can I donate in AUD/NZD or do I need to convert?**
 **A:** Use your AUD or NZD card as normal. Card checkout runs in USD, and your bank converts the amount from AUD or NZD.
@@ -361,6 +318,9 @@ When you donate, you can expect:
 - Prevention: We provide full transparency before you donate
 - Verification: Check our social media, YouTube, donor testimonials
 
+### **Q: Can I donate via Afterpay (pay later)?**
+**A:** Not at the moment. Afterpay isn't supported. You can give by card or Apple Pay through Paystack, by bank transfer, or with crypto.
+
 ### **Q: Do you accept physical donations (clothes, wheelchairs)?**
 **A:** Currently, no (shipping costs exceed value). **Cash donations are more impactful:**
 - Shipping wheelchair AU→KE: $500 AUD
@@ -375,14 +335,13 @@ Before donating, verify:
 
 - [ ] Website is secure (https://)
 - [ ] Paystack secure checkout badge visible
-- [ ] Tax receipt promised (for future DGR/donee status claim)
-- [ ] Amount shown in USD (your bank converts from AUD/NZD)
+- [ ] Charity's registration and tax status stated honestly
+- [ ] Amount shown clearly before you pay (USD for cards)
 - [ ] Beneficiary names listed (Mary & Lydia)
 - [ ] Social media accounts active
 - [ ] Video proof available (YouTube)
 - [ ] Monthly updates promised
 - [ ] 100% donation policy stated
-- [ ] Donor testimonials from other Aussies/Kiwis
 
 **If ALL checked → Safe to donate! 🟢**
 
@@ -396,21 +355,17 @@ Before donating, verify:
    - Your $100 AUD = $500 AUD impact in Kenya
    - Your $100 NZD = $450 NZD impact in Kenya
 
-2. **Tax Benefits (Coming Soon):**
-   - Australia: 32.5-45% tax deduction (DGR pending)
-   - New Zealand: 33.33% tax credit (donee status pending)
-
-3. **Zero Overhead:**
+2. **Zero Overhead:**
    - 100% of your donation → Mary & Lydia
    - No admin costs, no CEO salaries
 
-4. **Full Transparency:**
+3. **Full Transparency:**
    - Monthly photo updates
    - M-PESA receipts
    - Video calls available
    - WhatsApp donor group
 
-5. **Fair Dinkum Aussie Values:**
+4. **Fair Dinkum Aussie Values:**
    - "Give a Fair Go" to those who need it
    - Mateship across borders
    - Kiwi Spirit: "Aroha" (compassion) in action
@@ -443,6 +398,6 @@ When you donate from Sydney, Melbourne, Brisbane, Perth, Auckland, or Wellington
 
 **🙏 Thank you for considering Mary & Lydia.** Your Aussie/Kiwi generosity + Kenyan resilience = Lives transformed.
 
-**Donate now:** [/donate](/donate)
+**[Donate securely](/donate)**
 
 **She'll be right, mate – your donation makes all the difference!** 🦘🥝❤️

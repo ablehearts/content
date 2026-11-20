@@ -112,7 +112,7 @@ We're **not here to complain** 🙅‍♂️—we're here to be **transparent** 
 
 **What Happened:**
 - ✅ We created a **Facebook account and page** for AbleHearts
-- ✅ Updated **all required details** (charity registration, nonprofit status, contact info)
+- ✅ Updated **all required details** (about the project, contact info)
 - ❌ Account **suspended** for "fraud" with zero warning ⚠️
 - ❌ Appeals **rejected** or ignored 😤
 

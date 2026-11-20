@@ -2,7 +2,7 @@
 id: 4
 slug: "ablehearts-vs-gofundme-which-is-better-international-charity"
 title: "AbleHearts vs GoFundMe: Which Platform is Better for International Giving?"
-excerpt: "Comparing fees, tax benefits, transparency, and impact. See which platform maximizes your donation to Kenya families."
+excerpt: "Comparing fees, tax status, transparency, and impact. See which option maximizes your donation to Kenya families."
 category: "Comparison Guides"
 author: "AbleHearts Team"
 date: "February 1, 2024"
@@ -18,7 +18,7 @@ featured: false
     ## Table of Contents
     1. [Platform Overview](#platform-overview)
     2. [Fee Structure Comparison](#fee-structure-comparison)
-    3. [Tax Benefits](#tax-benefits)
+    3. [Tax Status](#tax-status)
     4. [Transparency & Accountability](#transparency-accountability)
     5. [Which Should You Choose?](#which-should-you-choose)
     
@@ -27,7 +27,7 @@ featured: false
     ## Platform Overview
     
     ### AbleHearts
-    - **Type:** Registered 501(c)(3) nonprofit organization - pending
+    - **Type:** Grassroots initiative, not yet a registered charity (no 501(c)(3) or tax-exempt status yet)
     - **Focus:** Direct support for specific individuals (Mary & Lydia)
     - **Location:** Kenya-focused, USA/Canada donors
     - **Model:** 100% of donations to beneficiaries
@@ -86,27 +86,13 @@ featured: false
     
     ---
     
-    ## Tax Benefits
+    ## Tax Status
     
-    ### AbleHearts Tax Advantages
+    ### AbleHearts
     
-    **Status:** Registered 501(c)(3) nonprofit (USA)
+    **Status:** Not yet a registered charity, no tax-exempt status
     
-    **Benefits for USA Donors:**
-    - Full tax deduction up to 60% of AGI
-    - Deduct appreciated assets at fair market value
-    - Avoid capital gains tax on donated crypto
-    - Carry forward unused deductions for 5 years
-    
-    **Benefits for Canadian Donors:**
-    - Tax credits: 15% on first $200, 29% on additional
-    - Provincial credits increase total benefit to 40-50%
-    - Carry forward for 5 years
-    
-    **Example Tax Savings (USA, 24% bracket):**
-    Donate: $1,000
-    Tax deduction: $240
-    Effective cost: $760
+    AbleHearts does not have 501(c)(3) status in the USA or charity registration in Canada yet, so **gifts to AbleHearts are not currently tax-deductible** and do not earn Canadian donation tax credits. We will update this comparison once registration is complete.
     
     ### GoFundMe Tax Situation
     
@@ -118,21 +104,15 @@ featured: false
     - Must be set up through verified 501(c)(3)
     - Donor receives no tax receipt for personal campaigns
     
-    **Example:**
-    Donate: $1,000
-    Tax deduction: $0 (unless GoFundMe Charity)
-    Effective cost: $1,000
-    
-    ### Tax Benefit Comparison Table
+    ### Tax Status Comparison Table
     
     <div class="table-wrapper-scroll">
     
     | Feature | AbleHearts | GoFundMe (Personal) | GoFundMe (Charity) |
     |---------|-----------|---------------------|-------------------|
-    | Tax Deductible | YES | NO | YES (if verified) |
-    | Tax Receipt Provided | Automatic | No | Yes |
-    | IRS Verification | 501(c)(3) | N/A | Varies |
-    | Documentation | Complete | None | Varies |
+    | Tax Deductible | Not currently (registration in progress) | NO | YES (if verified) |
+    | Official Tax Receipt | No (record of gift on request) | No | Yes |
+    | IRS Verification | Not yet | N/A | Varies |
     
     </div>
 
@@ -144,20 +124,18 @@ featured: false
     
     **What You Get:**
     - Monthly photo updates with receipts
-    - Detailed expense reports
+    - How donations are used, shown on our [Transparency page](/transparency)
     - Direct beneficiary information
     - Video updates when possible
-    - Public financial statements
-    - Regular impact metrics
+    - Receipts and an account of how your gift was spent, on request
     
     **How Donations Are Tracked:**
     1. Immediate email receipt with transaction ID
     2. Monthly update showing specific usage
     3. Photos/videos of impact
-    4. Annual summary for tax filing
     
-    **Example Update:**
-    "Your $50 December donation provided:
+    **Example of what an account could look like:**
+    "Your $50 donation provided:
     - Medical consultation: $25
     - Medications: $15
     - Transportation: $10
@@ -191,11 +169,10 @@ featured: false
     | Feature | AbleHearts | GoFundMe |
     |---------|-----------|----------|
     | Beneficiary Verification | Direct contact, photos, videos | Varies by campaign |
-    | Financial Reporting | Monthly detailed reports | Optional, inconsistent |
-    | Expense Documentation | Receipts for all spending | Rarely provided |
-    | Third-party Auditing | Available upon request | No |
-    | Registered Nonprofit | Yes (501c3) | Only for Charity campaigns |
-    | Background Checks | Organization vetted | Minimal vetting |
+    | Financial Reporting | Spending shown on the Transparency page | Optional, inconsistent |
+    | Expense Documentation | Receipts and an account of your gift on request | Rarely provided |
+    | Registered Nonprofit | Not yet (registration in progress) | Only for Charity campaigns |
+    | Background Checks | Direct contact with the founder | Minimal vetting |
     
     </div>
 
@@ -244,7 +221,6 @@ featured: false
     - Fraud monitoring
     
     **Donor Protection:**
-    - Registered nonprofit status
     - Verified beneficiaries
     - Regular reporting
     - Chargeback protection (via processors)
@@ -283,13 +259,13 @@ featured: false
     
     **Pros:**
     - Know exactly who you're helping
-    - Guaranteed tax deduction
     - Maximum impact per dollar
     - Ongoing relationship
     
     **Cons:**
     - Limited to specific beneficiaries
     - Smaller scale operation
+    - Not yet a registered charity, so gifts are not tax-deductible
     
     ### GoFundMe Experience
     
@@ -325,14 +301,13 @@ featured: false
     | Platform Fee | 0% | 0% (tips encouraged) |
     | Processing Fee | 2.9% + $0.30 | 2.9% + $0.30 |
     | Effective Cost | ~3% | ~13-18% |
-    | **Tax Benefits** | | |
-    | USA Tax Deductible | Always | Usually not |
-    | Canada Tax Credit | Yes | Usually not |
-    | Official Receipt | Automatic | Rarely |
+    | **Tax Status** | | |
+    | USA Tax Deductible | Not currently | Usually not |
+    | Canada Tax Credit | Not currently | Usually not |
     | **Transparency** | | |
     | Regular Updates | Monthly | Varies |
-    | Financial Reports | Detailed | Minimal |
-    | Expense Documentation | All receipts | Rarely |
+    | Financial Reports | Spending shown on the Transparency page | Minimal |
+    | Expense Documentation | Receipts on request | Rarely |
     | Beneficiary Verification | Direct contact | Varies |
     | **Impact** | | |
     | Funds Reach Beneficiary | 96.8% | 72-82% |
@@ -349,14 +324,12 @@ featured: false
     ### Choose AbleHearts If:
     
     - You want maximum impact per dollar
-    - Tax deductions are important to you
     - You value transparency and accountability
     - You want to build a relationship with beneficiaries
     - You prefer supporting verified, sustainable programs
     - You want regular updates with documentation
     
     **Best For:**
-    - Tax-conscious donors
     - Those seeking transparency
     - Donors wanting ongoing impact
     - People who value efficiency
@@ -364,7 +337,7 @@ featured: false
     ### Choose GoFundMe If:
     
     - You want to support a specific personal campaign
-    - Tax deductions aren't a priority
+    - You need a tax deduction (choose a verified GoFundMe Charity campaign or another registered charity)
     - You're comfortable with variable transparency
     - You want to support one-time emergency needs
     - The campaign organizer is someone you personally know
@@ -373,7 +346,6 @@ featured: false
     - Emergency personal needs
     - Supporting friends/family directly
     - One-time specific projects
-    - When tax deduction isn't needed
     
     ---
     
@@ -383,17 +355,18 @@ featured: false
     
     **AbleHearts is the superior choice** if you prioritize:
     1. Maximum impact (96.8% vs 72-82% reaches beneficiary)
-    2. Tax benefits ($240 savings on $1,000 donation)
-    3. Verified transparency
-    4. Long-term sustainable support
-    5. Documented accountability
+    2. Verified transparency
+    3. Long-term sustainable support
+    4. Documented accountability
     
-    **Total Value Difference:**
+    If you need a tax deduction, AbleHearts is not the right fit yet: gifts to AbleHearts are not currently tax-deductible.
+    
+    **Impact Difference:**
     
     Donating $1,000:
-    - **AbleHearts:** $968 impact + $240 tax savings = $1,208 total value
-    - **GoFundMe:** $720-820 impact + $0 tax savings = $720-820 total value
-    - **Difference:** $388-488 more value with AbleHearts
+    - **AbleHearts:** $968 reaches Mary & Lydia
+    - **GoFundMe:** $720-820 reaches the beneficiary
+    - **Difference:** $148-248 more impact with AbleHearts
     
     ---
     
@@ -406,13 +379,13 @@ featured: false
     **A:** Currently, yes. We focus exclusively on Mary & Lydia in Kenya for maximum accountability and impact.
     
     ### Q: What if I want to support multiple causes?
-    **A:** GoFundMe offers more variety. However, consider splitting donations between verified nonprofits like AbleHearts for tax efficiency.
+    **A:** GoFundMe offers more variety. However, you can split your giving: support Mary & Lydia directly through AbleHearts and other causes elsewhere.
     
     ### Q: How do I verify a GoFundMe campaign is legitimate?
     **A:** Research the organizer, check for regular updates, look for verification badges, and search for news coverage or social proof.
     
     ### Q: Can I get a refund from either platform?
-    **A:** AbleHearts follows nonprofit refund policies. GoFundMe offers refunds within 30 days if campaign is fraudulent, but policies vary.
+    **A:** Contact AbleHearts about any gift made in error and we will work with our payment provider to help. GoFundMe offers refunds within 30 days if campaign is fraudulent, but policies vary.
     
     ---
     
@@ -424,6 +397,7 @@ featured: false
     
     Support Mary & Lydia through AbleHearts:
     - 96.8% of your donation reaches beneficiaries
-    - Full tax deduction
     - Monthly photo updates
     - Verified, transparent impact
+    
+    **[Donate securely](/donate)**

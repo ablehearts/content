@@ -2,7 +2,7 @@
 id: 3
 slug: "cryptocurrency-donations-complete-guide-2024"
 title: "Cryptocurrency Donations: Complete Guide for Charitable Giving (2024)"
-excerpt: "How to donate Bitcoin, Ethereum, and USDT to charity. Maximize tax benefits, avoid capital gains, and make a bigger impact."
+excerpt: "How to donate Bitcoin, Ethereum, and USDT to charity. How crypto gifts work, how registered charities treat them for tax, and how to give safely."
 category: "Tax & Finance"
 author: "AbleHearts Team"
 date: "February 5, 2024"
@@ -17,7 +17,10 @@ featured: false
 
     Donating appreciated cryptocurrency offers unique tax advantages that can maximize your charitable impact while simplifying your giving.
 
-    ## 🧾 Tax Benefits of Crypto Donations
+    ## 🧾 Tax Benefits of Crypto Donations (Registered Charities Only)
+
+    **Please note:** These benefits apply only to gifts to registered, tax-exempt charities. AbleHearts is not yet a registered charity and does not have tax-exempt status, so crypto gifts to AbleHearts are not tax-deductible.
+
 
     - 🏁 Avoid capital gains taxes on appreciated crypto
     - 📉 Deduct the full fair market value (if eligible in your country)
@@ -84,5 +87,5 @@ featured: false
     Give in minutes and make a borderless impact.
 
     - 🔒 Secure wallet processing
-    - 🧾 Proper donation receipt
+    - 🧾 A record of your gift on request (not a tax receipt)
     - 📸 Impact updates so you see your difference

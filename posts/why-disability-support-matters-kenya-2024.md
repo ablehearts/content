@@ -80,7 +80,7 @@ featured: false
   A: Yes. There's no automatic billing, but you can give again each month on the [donate page](/donate). Regular gifts provide reliable support for essentials and care.
   
   **Q: Are donations tax-deductible?**
-  A: Tax receipts are provided where applicable (see donation page details).
+  A: Not at the moment. AbleHearts is not yet a registered charity and does not have tax-exempt status, so gifts are not tax-deductible. We will update this once registration is complete.
   
   ## 🚀 Take Action
   

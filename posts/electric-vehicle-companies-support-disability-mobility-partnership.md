@@ -2,12 +2,12 @@
 id: 11
 slug: "electric-vehicle-companies-support-disability-mobility-partnership"
 title: "Calling Electric Vehicle Companies: Partner for Disability Mobility & Environmental Impact"
-excerpt: "How EV manufacturers like Tesla, Rivian, and BYD can support disability mobility while advancing sustainability. Tax benefits, CSR impact, and partnership opportunities."
+excerpt: "How EV manufacturers like Tesla, Rivian, and BYD can support disability mobility while advancing sustainability. CSR impact, honest tax status and partnership opportunities."
 category: "Impact Stories"
 author: "AbleHearts Team"
 date: "January 2025"
 image: "https://able-hearts.org/images/blog/ev.jpeg"
-tags: ["electric vehicles","tesla","rivian","sustainability","disability mobility","corporate social responsibility","tax deduction","environmental impact","green initiative"]
+tags: ["electric vehicles","tesla","rivian","sustainability","disability mobility","corporate social responsibility","environmental impact","green initiative"]
 featured: false
 ---
 
@@ -15,7 +15,7 @@ featured: false
 
 **A Win-Win Partnership: Environmental Sustainability Meets Social Impact**
 
-The electric vehicle revolution isn't just about reducing emissions—it's about creating accessible, sustainable transportation for everyone. **Mary and Lydia**, two disabled women in Kenya, need reliable 4x4 transportation for medical care, but this represents a bigger opportunity: **EV companies can lead disability mobility innovation while earning tax benefits and global recognition.**
+The electric vehicle revolution isn't just about reducing emissions—it's about creating accessible, sustainable transportation for everyone. **Mary and Lydia**, two disabled women in Kenya, need reliable 4x4 transportation for medical care, but this represents a bigger opportunity: **EV companies can lead disability mobility innovation and earn global recognition.**
 
 ---
 
@@ -30,7 +30,6 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 - Wheelchair-accessible EV conversions advance **inclusive design**
 
 **Your CSR Investment:**
-- **Tax-deductible donation** (🇺🇸 USA, 🇨🇦 Canada, 🇦🇺 Australia, 🇦🇪 UAE eligible)
 - **Global brand recognition** for disability advocacy
 - **Case study** for EV accessibility in developing markets
 - **Media coverage** worth millions in PR value
@@ -48,39 +47,13 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 - **Maintenance:** 3-year service package included
 
 **Estimated Value:** $45,000 - $65,000
-**Tax Deduction:** Up to 100% of vehicle value (varies by country)
 **Impact:** 2 disabled women + 4 family members gain reliable mobility
 
 ---
 
-## 💼 Tax Benefits for EV Companies
+## 💼 A Note on Tax Status
 
-### United States (IRS)
-
-**Corporate Charitable Deduction:**
-- Deduct fair market value of vehicle donation
-- Enhanced deduction for inventory (up to 200% of cost basis)
-- Section 170(e)(3) qualified contribution
-- Carry forward excess deductions 5 years
-
-**Example: Tesla donates $60,000 Model X**
-- Tax deduction: $60,000
-- Tax savings (21% corporate rate): **$12,600**
-- Net cost to Tesla: **$47,400**
-
-### Canada (CRA)
-
-**Corporate Donation Credit:**
-- Deduct 75% of vehicle value
-- Additional 25% for first-time donors
-- Lifetime capital gains exemption applies
-
-### United Arab Emirates
-
-**CSR Tax Incentives:**
-- Full deduction under UAE Corporate Tax Law
-- Zakat-eligible for Islamic companies
-- Enhanced brand reputation in MENA region
+AbleHearts is **not yet a registered charity** and does not have tax-exempt status in the USA, Canada, the UAE or anywhere else. A vehicle or cash gift to AbleHearts therefore **does not currently qualify as a deductible corporate charitable contribution**. Please plan any partnership as CSR and brand investment, not as a tax deduction, and talk to your own tax advisers. We will update this page once our registration is complete.
 
 ---
 
@@ -99,7 +72,6 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 - Donate 1 Model X with accessibility modifications
 - Install home solar charging (Powerwall + panels)
 - Feature Mary & Lydia in global accessibility campaign
-- Tax deduction: ~$100,000 USD
 
 ### Rivian Automotive
 > **"Keep the world adventurous forever"**
@@ -148,11 +120,6 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 - **Documentary feature:** Mary & Lydia's mobility transformation
 - **Industry awards:** CSR recognition (Fast Company, Forbes)
 
-**Tax Savings:**
-- **🇺🇸 USA:** 21% corporate tax = $12,000 - $21,000 saved
-- **🇨🇦 Canada:** 15% federal + provincial = similar savings
-- **🇦🇪 UAE:** Full deduction + zakat credit
-
 **Brand Alignment:**
 - **Sustainability:** 80% emissions reduction
 - **Accessibility:** Advancing inclusive transportation
@@ -163,7 +130,6 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 
 **Google Ad Grants:**
 - Google provides $10,000/month in free advertising to nonprofits
-- Tax-deductible CSR program
 - Global brand recognition
 
 **Microsoft Accessibility:**
@@ -172,7 +138,7 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 - Enhanced brand reputation
 
 **AbleHearts EV Partnership:**
-- Similar model: vehicle donation = tax deduction + global impact
+- Similar model: in-kind donation = global impact + brand recognition
 - One-time $60,000 investment
 - Lifetime mobility transformation
 
@@ -197,25 +163,22 @@ The electric vehicle revolution isn't just about reducing emissions—it's about
 
 ## 📈 How Your Company Benefits
 
-### 1. **Tax Deduction** (Up to $100,000)
-Donate 1 vehicle + modifications + solar charging
-
-### 2. **Global Media Coverage** ($500,000+ value)
+### 1. **Global Media Coverage** ($500,000+ value)
 - Press releases in 50+ countries
 - Documentary: "Driving Change: EVs Transform Disability Mobility"
 - Social media campaign: #EVsForAbility #GreenMobility
 
-### 3. **CSR Report Highlight**
+### 2. **CSR Report Highlight**
 - Feature in annual sustainability report
 - Case study for developing market EV adoption
 - Accessibility innovation leadership
 
-### 4. **Industry Recognition**
+### 3. **Industry Recognition**
 - Corporate Social Responsibility awards
 - Fast Company Impact Award nomination
 - UN Sustainable Development Goals alignment (SDG 10, 11, 13)
 
-### 5. **Employee Engagement**
+### 4. **Employee Engagement**
 - Purpose-driven CSR program
 - Volunteer opportunities (installation, training)
 - Matching donation campaigns
@@ -252,10 +215,9 @@ Donate 1 vehicle + modifications + solar charging
 - **Backup Contact:** [ablehearts@hotmail.com](mailto:ablehearts@hotmail.com)
 - **WhatsApp:** [+254 107 145 882](https://wa.me/254107145882)
 
-**Tax Documentation:**
-- 🇺🇸 USA: 501(c)(3) equivalent documentation provided
-- 🇨🇦 Canada: Registered charity receipts
-- 🇦🇪 UAE: Tax-compliant donation receipts
+**Documentation:**
+- A written record of your gift, for your own files
+- AbleHearts cannot issue official tax receipts until it is registered
 
 **Timeline:**
 - **Proposal review:** 2 weeks
@@ -272,7 +234,6 @@ Electric vehicle companies have a unique opportunity to **lead the intersection 
 ✅ **Advancing disability rights** in developing markets
 ✅ **Reducing carbon emissions** by 2.4 tons/year
 ✅ **Demonstrating EV viability** in rural Africa
-✅ **Earning significant tax benefits**
 ✅ **Gaining global brand recognition**
 
 **This is more than CSR—it's leadership in the future of inclusive, sustainable mobility.**
@@ -282,15 +243,13 @@ Electric vehicle companies have a unique opportunity to **lead the intersection 
 ## 📚 Additional Resources
 
 **For EV Companies:**
-- [IRS Publication 526: Charitable Contributions](https://www.irs.gov/pub/irs-pdf/p526.pdf)
-- [CRA Gifts and Income Tax](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/gifts-income-tax-act.html)
 - [UN SDG 10: Reduced Inequalities](https://sdgs.un.org/goals/goal10)
 - [UN SDG 13: Climate Action](https://sdgs.un.org/goals/goal13)
 
 **For Donors:**
-- [Donate Now](/donate) - Support Mary & Lydia's mobility fund
+- [Donate securely](/donate) - Support Mary & Lydia's mobility fund
 - [Contact Us](/contact) - Partnership inquiries
-- [FAQ](/faq) - Tax deduction questions
+- [FAQ](/faq) - Questions about giving and our status
 
 ---
 

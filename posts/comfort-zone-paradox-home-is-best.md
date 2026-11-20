@@ -541,7 +541,7 @@ Success = **Skill + Opportunity** 🛠️🍀
 - **Change a life** ✨♿
 - **Break the paradox** 🔄❌
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 
@@ -564,7 +564,7 @@ This entire post?
 
 **Help them escape the comfort zone that's killing them.** 🔓✨
 
-[Donate Now](/donate) 👉💰
+[Donate securely](/donate) 👉💰
 
 ---
 
